@@ -1,0 +1,37 @@
+[
+  {
+    "model": "imagen4",
+    "num_scored": 174,
+    "mean": 0.9220440630738077,
+    "stdev": 0.24339354104624436,
+    "timestamp": 1755944599
+  },
+  {
+    "model": "sd3.5-large",
+    "num_scored": 1113,
+    "mean": 0.707059503979399,
+    "stdev": 0.4228287309228198,
+    "timestamp": 1755949739
+  },
+  {
+    "model": "sd3.5-medium",
+    "num_scored": 1600,
+    "mean": 0.6432295483917763,
+    "stdev": 0.443213570162744,
+    "timestamp": 1755952358
+  },
+  {
+    "model": "sd-base0.9",
+    "num_scored": 1600,
+    "mean": 0.5555731131448927,
+    "stdev": 0.4596193213529029,
+    "timestamp": 1755951884
+  },
+  {
+    "model": "sd-base1.0",
+    "num_scored": 1600,
+    "mean": 0.5220499363552074,
+    "stdev": 0.4599190332041256,
+    "timestamp": 1755951842
+  }
+]

@@ -1,0 +1,5567 @@
+[
+  {
+    "index": 0,
+    "prompt": "A baker pulling freshly baked bread out of an oven in a bakery.",
+    "score": 0.9999992251396179
+  },
+  {
+    "index": 1,
+    "prompt": "A photographer capturing a fleeting moment in a vibrant city street.",
+    "score": 0.9999831318855286
+  },
+  {
+    "index": 2,
+    "prompt": "A gardener tending to flowers in a greenhouse filled with sunlight.",
+    "score": 0.9999983906745911
+  },
+  {
+    "index": 3,
+    "prompt": "A man shaping clay on a wheel in a cluttered workshop.",
+    "score": 0.9996641278266907
+  },
+  {
+    "index": 4,
+    "prompt": "A crystal tree shimmering under a twilit, starry sky.",
+    "score": 0.999998152256012
+  },
+  {
+    "index": 5,
+    "prompt": "A dragon perched majestically on a craggy, smoke-wreathed mountain.",
+    "score": 0.9999904036521912
+  },
+  {
+    "index": 6,
+    "prompt": "A fairy dancing lightly atop a blooming, moonlit flower.",
+    "score": 0.9984973669052124
+  },
+  {
+    "index": 7,
+    "prompt": "A phoenix soaring above a city, aglow with golden flames.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 8,
+    "prompt": "A ghostly ship sailing on a fog-shrouded, moonlit sea.",
+    "score": 0.9999710917472839
+  },
+  {
+    "index": 9,
+    "prompt": "A sorcerer's hat casting shadows over a cluttered, enchanted desk.",
+    "score": 0.999733567237854
+  },
+  {
+    "index": 10,
+    "prompt": "A pair of winged boots resting on a cloud in the sky.",
+    "score": 0.9999958872795105
+  },
+  {
+    "index": 11,
+    "prompt": "A mirror is speaking in a dimly lit room.",
+    "score": 1.7603429114387836e-06
+  },
+  {
+    "index": 12,
+    "prompt": "An ice castle standing proudly in the midst of a blizzard.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 13,
+    "prompt": "A potion bubbling brightly inside a cauldron in a shadowy nook.",
+    "score": 0.9975168704986572
+  },
+  {
+    "index": 14,
+    "prompt": "A book with glowing runes floating beside a mystic crystal.",
+    "score": 0.9998593926429749
+  },
+  {
+    "index": 15,
+    "prompt": "A celestial comet racing across a star-studded sky.",
+    "score": 0.1480453759431839
+  },
+  {
+    "index": 16,
+    "prompt": "A mermaid singing softly near a coral throne undersea.",
+    "score": 0.9984948635101318
+  },
+  {
+    "index": 17,
+    "prompt": "A goblin trading shiny trinkets in a hidden, mystical market.",
+    "score": 0.9999976754188538
+  },
+  {
+    "index": 18,
+    "prompt": "A unicorn grazing peacefully in a radiant, rainbow-lit glade.",
+    "score": 0.9840827584266663
+  },
+  {
+    "index": 19,
+    "prompt": "A magical quill writing tales by itself on an empty scroll.",
+    "score": 3.535618452588096e-05
+  },
+  {
+    "index": 20,
+    "prompt": "A lantern casting dim light in a haunted forest.",
+    "score": 0.9999844431877136
+  },
+  {
+    "index": 21,
+    "prompt": "A cloak of invisibility draped over a chair in a secretive chamber.",
+    "score": 0.005219737533479929
+  },
+  {
+    "index": 22,
+    "prompt": "A genie's lamp emitting wisps of smoke on a sandy dune.",
+    "score": 0.999997079372406
+  },
+  {
+    "index": 23,
+    "prompt": "An enchanted broom sweeping in a wizard's lofty chamber.",
+    "score": 0.9996159672737122
+  },
+  {
+    "index": 24,
+    "prompt": "A cat pounces on a rolling ball.",
+    "score": 0.9959201812744141
+  },
+  {
+    "index": 25,
+    "prompt": "A young man tastes a simmering soup.",
+    "score": 0.9975263476371765
+  },
+  {
+    "index": 26,
+    "prompt": "A girl dabs paint on a mural.",
+    "score": 0.999986469745636
+  },
+  {
+    "index": 27,
+    "prompt": "A dancer twirls in a spotlight.",
+    "score": 0.9999670386314392
+  },
+  {
+    "index": 28,
+    "prompt": "A boy leaps over a hurdle.",
+    "score": 0.9997960329055786
+  },
+  {
+    "index": 29,
+    "prompt": "An old person snips a blooming rose.",
+    "score": 0.9975215792655945
+  },
+  {
+    "index": 30,
+    "prompt": "A man kneads dough on a table.",
+    "score": 0.9999635815620422
+  },
+  {
+    "index": 31,
+    "prompt": "A person types on an old typewriter.",
+    "score": 0.9999869465827942
+  },
+  {
+    "index": 32,
+    "prompt": "A dog tunes a violin.",
+    "score": 0.26894068717956543
+  },
+  {
+    "index": 33,
+    "prompt": "A woman examines a diamond.",
+    "score": 0.8170478343963623
+  },
+  {
+    "index": 34,
+    "prompt": "A small cat waves a wand.",
+    "score": 0.9889615774154663
+  },
+  {
+    "index": 35,
+    "prompt": "A boy spots a colorful bird.",
+    "score": 0.9999247193336487
+  },
+  {
+    "index": 36,
+    "prompt": "A sailor hoists a sail.",
+    "score": 0.9933056235313416
+  },
+  {
+    "index": 37,
+    "prompt": "A bird nocks an arrow.",
+    "score": 0.5621323585510254
+  },
+  {
+    "index": 38,
+    "prompt": "A cat basking in the sunlight by a window.",
+    "score": 0.9999987483024597
+  },
+  {
+    "index": 39,
+    "prompt": "A red bicycle parked against a brightly painted wall.",
+    "score": 0.999993622303009
+  },
+  {
+    "index": 40,
+    "prompt": "A teapot steaming gently on a rustic kitchen table.",
+    "score": 0.9999889731407166
+  },
+  {
+    "index": 41,
+    "prompt": "Old boots resting on a muddy trail in the woods.",
+    "score": 0.9999547600746155
+  },
+  {
+    "index": 42,
+    "prompt": "A yellow taxi waiting outside a modern glass building.",
+    "score": 0.9999867081642151
+  },
+  {
+    "index": 43,
+    "prompt": "An armchair with a knit blanket draped over it, next to a fireplace.",
+    "score": 0.9999914765357971
+  },
+  {
+    "index": 44,
+    "prompt": "A colorful mural of a bird adorning a city alley.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 45,
+    "prompt": "An old lantern swaying from a tree branch in a foggy forest.",
+    "score": 0.9999005198478699
+  },
+  {
+    "index": 46,
+    "prompt": "A garden path lined with glowing stones under a twilight sky.",
+    "score": 0.9999918341636658
+  },
+  {
+    "index": 47,
+    "prompt": "A grand fountain surrounded by historic buildings in a town square.",
+    "score": 0.9999008774757385
+  },
+  {
+    "index": 48,
+    "prompt": "A cavern lit by shafts of light revealing hidden underground pools.",
+    "score": 0.999839723110199
+  },
+  {
+    "index": 49,
+    "prompt": "Boats laden with fruits floating on a river under a dual sunset.",
+    "score": 0.022977307438850403
+  },
+  {
+    "index": 50,
+    "prompt": "Shelves carved from tree branches in a mystical library.",
+    "score": 0.9999942183494568
+  },
+  {
+    "index": 51,
+    "prompt": "Ancient buildings juxtaposed with sleek, futuristic transports.",
+    "score": 0.9999894499778748
+  },
+  {
+    "index": 52,
+    "prompt": "A village covered in snow, illuminated by the northern lights.",
+    "score": 0.9999961256980896
+  },
+  {
+    "index": 53,
+    "prompt": "An oasis mirage with an ice palace reflecting moonlight in the desert.",
+    "score": 0.9913945198059082
+  },
+  {
+    "index": 54,
+    "prompt": "An asteroid spaceport bustling with aliens and spacecraft.",
+    "score": 0.9999012351036072
+  },
+  {
+    "index": 55,
+    "prompt": "A small dog dozing in a patch of sunlight.",
+    "score": 0.9999808669090271
+  },
+  {
+    "index": 56,
+    "prompt": "A single rose growing through a crack.",
+    "score": 0.9933022856712341
+  },
+  {
+    "index": 57,
+    "prompt": "A quaint bookshop.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 58,
+    "prompt": "A lone lighthouse standing guard on a rocky coastline.",
+    "score": 0.9999992251396179
+  },
+  {
+    "index": 59,
+    "prompt": "A butterfly perched on a wildflower in a meadow.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 60,
+    "prompt": "A pilot with aviator sunglasses.",
+    "score": 0.3205189108848572
+  },
+  {
+    "index": 61,
+    "prompt": "A baker with a cherry pin on a polka dot apron.",
+    "score": 0.18242354691028595
+  },
+  {
+    "index": 62,
+    "prompt": "A knight with a feather plume helmet standing by a stone tower.",
+    "score": 0.9999613165855408
+  },
+  {
+    "index": 63,
+    "prompt": "A scientist with a gear-shaped ring in a steampunk lab.",
+    "score": 0.9999976754188538
+  },
+  {
+    "index": 64,
+    "prompt": "A swan with a silver anklet on a crystal lake.",
+    "score": 8.481095574097708e-05
+  },
+  {
+    "index": 65,
+    "prompt": "A ninja with a dragon emblem in a bamboo grove.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 66,
+    "prompt": "A pirate with a skull earring on a treasure island.",
+    "score": 0.9706677198410034
+  },
+  {
+    "index": 67,
+    "prompt": "A wizard with a starry cape under a full moon.",
+    "score": 0.9999976754188538
+  },
+  {
+    "index": 68,
+    "prompt": "A fairy with butterfly wings in a dewy meadow.",
+    "score": 0.9999962449073792
+  },
+  {
+    "index": 69,
+    "prompt": "A cheerleader with a star badge at a sports field.",
+    "score": 0.9999415278434753
+  },
+  {
+    "index": 70,
+    "prompt": "A samurai with a silk sash in a cherry blossom garden.",
+    "score": 0.999735951423645
+  },
+  {
+    "index": 71,
+    "prompt": "An astronaut with a flag patch drifting in space.",
+    "score": 0.9996609091758728
+  },
+  {
+    "index": 72,
+    "prompt": "A playful kitten with a bell collar on the left, batting at a fluttering butterfly on the right.",
+    "score": 0.999923050403595
+  },
+  {
+    "index": 73,
+    "prompt": "A cheerful dog with a frisbee in its mouth on the right, chasing a rolling ball on the left.",
+    "score": 0.9706767201423645
+  },
+  {
+    "index": 74,
+    "prompt": "An eagle with a silver band on its leg on the right, soaring past a towering pine tree on the left.",
+    "score": 0.9959267377853394
+  },
+  {
+    "index": 75,
+    "prompt": "A golden retriever sitting to the left of a blue picket fence.",
+    "score": 0.18242450058460236
+  },
+  {
+    "index": 76,
+    "prompt": "A small pond with a single swan gliding towards the left.",
+    "score": 0.9980725049972534
+  },
+  {
+    "index": 77,
+    "prompt": "A white sailboat drifting towards the left on a calm lake.",
+    "score": 0.7310382127761841
+  },
+  {
+    "index": 78,
+    "prompt": "A single red rose in a vase on the right side of a windowsill.",
+    "score": 0.8519360423088074
+  },
+  {
+    "index": 79,
+    "prompt": "A blue mailbox standing to the left of a winding garden path.",
+    "score": 0.9988294839859009
+  },
+  {
+    "index": 80,
+    "prompt": "A snowy owl perched to the right on a frost-covered branch.",
+    "score": 0.012431582435965538
+  },
+  {
+    "index": 81,
+    "prompt": "A vintage clock on a mantelpiece leaning slightly to the left.",
+    "score": 0.437813937664032
+  },
+  {
+    "index": 82,
+    "prompt": "A cat sitting to the left of a bookshelf.",
+    "score": 0.2689383327960968
+  },
+  {
+    "index": 83,
+    "prompt": "A crystal-clear lake reflecting a mountainous landscape.",
+    "score": 0.9999961256980896
+  },
+  {
+    "index": 84,
+    "prompt": "A row of colorful townhouses on a sunny street.",
+    "score": 0.9999962449073792
+  },
+  {
+    "index": 85,
+    "prompt": "An ancient scroll unrolled on a wooden desk.",
+    "score": 0.993289589881897
+  },
+  {
+    "index": 86,
+    "prompt": "A hammock strung between two palm trees on a beach.",
+    "score": 0.9978159666061401
+  },
+  {
+    "index": 87,
+    "prompt": "A narrow alleyway illuminated by strings of fairy lights.",
+    "score": 0.999993622303009
+  },
+  {
+    "index": 88,
+    "prompt": "A star-filled sky over a desert campsite.",
+    "score": 0.9999778866767883
+  },
+  {
+    "index": 89,
+    "prompt": "A red bicycle against a blue wall.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 90,
+    "prompt": "Worn-out boots sit on a muddy path, the dense forest looming around them.",
+    "score": 0.9999940991401672
+  },
+  {
+    "index": 91,
+    "prompt": "A bright yellow taxi parked in front, a tall glass building rising behind it amidst clouds.",
+    "score": 0.999902069568634
+  },
+  {
+    "index": 92,
+    "prompt": "A vibrant mural depicts a giant parrot, urban apartment buildings serving as its canvas.",
+    "score": 0.9999803900718689
+  },
+  {
+    "index": 93,
+    "prompt": "A whimsical garden features glowing flowers, luminescent stones lining the pathway beneath.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 94,
+    "prompt": "A cat lounging lazily on a sunny windowsill.",
+    "score": 0.9999930262565613
+  },
+  {
+    "index": 95,
+    "prompt": "A painter delicately brushing color onto a canvas in a bright, airy studio.",
+    "score": 0.9999950528144836
+  },
+  {
+    "index": 96,
+    "prompt": "A chef fervently preparing sushi in a bustling kitchen.",
+    "score": 0.9999987483024597
+  },
+  {
+    "index": 97,
+    "prompt": "A vintage car cruising down a coastal road at sunset.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 98,
+    "prompt": "A group of children playing hide-and-seek in a blooming garden.",
+    "score": 0.9990885853767395
+  },
+  {
+    "index": 99,
+    "prompt": "A librarian shelving books in a quiet, expansive library.",
+    "score": 0.8174289464950562
+  },
+  {
+    "index": 100,
+    "prompt": "An astronaut floating gracefully in the vastness of space outside a spacecraft.",
+    "score": 0.9992856979370117
+  },
+  {
+    "index": 101,
+    "prompt": "A little girl tuning a guitar before a concert in a dimly lit venue.",
+    "score": 0.9992872476577759
+  },
+  {
+    "index": 102,
+    "prompt": "A pencil holder with more pens than pencils.",
+    "score": 0.3208201229572296
+  },
+  {
+    "index": 103,
+    "prompt": "A building with more doors than windows.",
+    "score": 8.93969991011545e-06
+  },
+  {
+    "index": 104,
+    "prompt": "A couple, with the taller one hugging the shorter one from behind.",
+    "score": 0.00048785697435960174
+  },
+  {
+    "index": 105,
+    "prompt": "The sky teems with more birds than the number of fish visible in the lake below.",
+    "score": 0.9947509169578552
+  },
+  {
+    "index": 106,
+    "prompt": "On the party table, chocolate chip cookies outnumber the frosted cupcakes.",
+    "score": 0.2226998209953308
+  },
+  {
+    "index": 107,
+    "prompt": "A table setting with fewer forks than bowls.",
+    "score": 0.02297736331820488
+  },
+  {
+    "index": 108,
+    "prompt": "In a gym, there are two people: the one closer to the table is resting, while the one further away from the table is lifting weights.",
+    "score": 0.9986744523048401
+  },
+  {
+    "index": 109,
+    "prompt": "A larger person in yellow clothing and a smaller person in a different color.",
+    "score": 0.9820033311843872
+  },
+  {
+    "index": 110,
+    "prompt": "An animal with legs notably longer than a nearby person's.",
+    "score": 0.00048762999358586967
+  },
+  {
+    "index": 111,
+    "prompt": "A forest landscape with more birds in the sky than trees on the ground.",
+    "score": 0.9990877509117126
+  },
+  {
+    "index": 112,
+    "prompt": "A workspace with more computers than computer mice.",
+    "score": 0.43782228231430054
+  },
+  {
+    "index": 113,
+    "prompt": "An interior space with stools outnumbering the people.",
+    "score": 0.9999863505363464
+  },
+  {
+    "index": 114,
+    "prompt": "A scene where there are more hats than stools.",
+    "score": 0.9999960064888
+  },
+  {
+    "index": 115,
+    "prompt": "A kitchen with a larger quantity of milk than juice.",
+    "score": 0.9997384548187256
+  },
+  {
+    "index": 116,
+    "prompt": "In a peaceful pond, there are more fish in the water than frogs on the lotus leaves.",
+    "score": 0.11919216811656952
+  },
+  {
+    "index": 117,
+    "prompt": "City view, the tower on the left is taller than the one on the right.",
+    "score": 0.14804641902446747
+  },
+  {
+    "index": 118,
+    "prompt": "The sun illuminates the garden, a shovel sticks in the soil, and gloves lay on the bench.",
+    "score": 0.005219872109591961
+  },
+  {
+    "index": 119,
+    "prompt": "A fish glides through the air, while a bird plunges underwater.",
+    "score": 0.6791710257530212
+  },
+  {
+    "index": 120,
+    "prompt": "A map unfolds widely on the wall and a compass points northward.",
+    "score": 0.9914157390594482
+  },
+  {
+    "index": 121,
+    "prompt": "Children are swinging on the swings while their parents watch from nearby, and a puppy frolics around them.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 122,
+    "prompt": "Three flowers on the ground: one red, another yellow, and the third blue.",
+    "score": 0.9984955787658691
+  },
+  {
+    "index": 123,
+    "prompt": "There are two red flowers on the table and a few yellow flowers under the table.",
+    "score": 2.14449373743264e-05
+  },
+  {
+    "index": 124,
+    "prompt": "A strange landscape: the ground on the left is covered with snow but the ground on the right is covered with green grass.",
+    "score": 0.9399102926254272
+  },
+  {
+    "index": 125,
+    "prompt": "A boat glides across the ocean, dolphins leaping beside it and seagulls soaring overhead.",
+    "score": 0.00012339238310232759
+  },
+  {
+    "index": 126,
+    "prompt": "A painting hangs on the wall, a vase rests on the table, and sunlight streams through the window.",
+    "score": 0.9999831318855286
+  },
+  {
+    "index": 127,
+    "prompt": "A hat is perched on the table and a coat is draped on the chair.",
+    "score": 0.9240665435791016
+  },
+  {
+    "index": 128,
+    "prompt": "A garden scene, weeds growing on the left side of the garden while the right side is neatly manicured.",
+    "score": 0.9046461582183838
+  },
+  {
+    "index": 129,
+    "prompt": "In one bedroom the pillows were plump and the blankets neatly folded.",
+    "score": 0.06754108518362045
+  },
+  {
+    "index": 130,
+    "prompt": "A guitar rests against a chair and a drum set stands nearby.",
+    "score": 0.22268813848495483
+  },
+  {
+    "index": 131,
+    "prompt": "In a snowy landscape, a fox dashes across the terrain, while nearby, a dog sits calmly.",
+    "score": 0.9998595118522644
+  },
+  {
+    "index": 132,
+    "prompt": "The sun sets on the left while the moon rises on the right.",
+    "score": 0.008577100932598114
+  },
+  {
+    "index": 133,
+    "prompt": "Two lampshades flank a bed: the one on the left is tilted, while the one on the right stands straight.",
+    "score": 0.007577231153845787
+  },
+  {
+    "index": 134,
+    "prompt": "A window consists of two panes of glass, the left one is broken but the right one is intact.",
+    "score": 0.999939501285553
+  },
+  {
+    "index": 135,
+    "prompt": "A piece of white paper is on the grass, the left side of the paper is filled with writing while the right side is empty.",
+    "score": 0.9999036192893982
+  },
+  {
+    "index": 136,
+    "prompt": "A child studying at a table, the left side of the table is neat, but the right side is cluttered.",
+    "score": 0.4999968111515045
+  },
+  {
+    "index": 137,
+    "prompt": "At the center of the table,  four gleaming silver forks encircle a solitary porcelain plate.",
+    "score": 0.1480468064546585
+  },
+  {
+    "index": 138,
+    "prompt": "Two cats playing with a single ball.",
+    "score": 0.00023050665913615376
+  },
+  {
+    "index": 139,
+    "prompt": "Five cylindrical mugs beside two rectangular napkins.",
+    "score": 0.4999983012676239
+  },
+  {
+    "index": 140,
+    "prompt": "Four flowers are in full bloom, with two of them by the bench.",
+    "score": 0.32082077860832214
+  },
+  {
+    "index": 141,
+    "prompt": "Six oval stones and four triangular sails.",
+    "score": 0.3208010792732239
+  },
+  {
+    "index": 142,
+    "prompt": "One orange kite and four white seagulls flying above the beach.",
+    "score": 0.994779109954834
+  },
+  {
+    "index": 143,
+    "prompt": "Five enthusiastic athletes and one tired coach.",
+    "score": 0.7772902846336365
+  },
+  {
+    "index": 144,
+    "prompt": "Two orange pumpkins and four flying black bats.",
+    "score": 0.5621741414070129
+  },
+  {
+    "index": 145,
+    "prompt": "One sun setting behind two tall buildings.",
+    "score": 0.9959251880645752
+  },
+  {
+    "index": 146,
+    "prompt": "Two orange pumpkins behind a group of five spooky Halloween candles.",
+    "score": 0.11920186132192612
+  },
+  {
+    "index": 147,
+    "prompt": "One content rabbit and six tired turtles.",
+    "score": 0.0009110505343414843
+  },
+  {
+    "index": 148,
+    "prompt": "Eight wavy lines are under three polygonal signs.",
+    "score": 0.14797335863113403
+  },
+  {
+    "index": 149,
+    "prompt": "Three pink peonies and four white daisies in a garden.",
+    "score": 0.622439444065094
+  },
+  {
+    "index": 150,
+    "prompt": "Two red balloons and three white clouds floating in the blue sky.",
+    "score": 1.670141500653699e-05
+  },
+  {
+    "index": 151,
+    "prompt": "Two grey wolves howling and three deer watching.",
+    "score": 0.0009110505343414843
+  },
+  {
+    "index": 152,
+    "prompt": "Four disappointed customers and two content sellers.",
+    "score": 1.4738946447323542e-05
+  },
+  {
+    "index": 153,
+    "prompt": "Four nervous mice and one confident cat.",
+    "score": 4.22282710133004e-06
+  },
+  {
+    "index": 154,
+    "prompt": "Three books are stacked on top of each other, with the red one at the bottom, the yellow one in the middle, and the blue one on top.",
+    "score": 0.00013982201926410198
+  },
+  {
+    "index": 155,
+    "prompt": "One bird singing, two flowers swaying.",
+    "score": 0.7772765159606934
+  },
+  {
+    "index": 156,
+    "prompt": "Five relaxed students but one overwhelmed teacher.",
+    "score": 0.00669263768941164
+  },
+  {
+    "index": 157,
+    "prompt": "One ecstatic painter in front of four confused muses.",
+    "score": 0.2688896059989929
+  },
+  {
+    "index": 158,
+    "prompt": "One person talks on the phone animatedly while the other sits sadly.",
+    "score": 0.00023050665913615376
+  },
+  {
+    "index": 159,
+    "prompt": "An excited cat is on the left and an upset cat is on the right",
+    "score": 0.04658105969429016
+  },
+  {
+    "index": 160,
+    "prompt": "A scene with two blue balls amidst many yellow ones.",
+    "score": 1.994727881537983e-06
+  },
+  {
+    "index": 161,
+    "prompt": "Cats playing on the roof, the cat on the left has curly hair, and the cat on the right has straight hair",
+    "score": 0.9706806540489197
+  },
+  {
+    "index": 162,
+    "prompt": "A lone green banana stands out among a cluster of red bananas.",
+    "score": 0.9999807476997375
+  },
+  {
+    "index": 163,
+    "prompt": "A circular mirror is above a rectangular one.",
+    "score": 1.067703010448895e-06
+  },
+  {
+    "index": 164,
+    "prompt": "Some oranges on the left are moldy while an orange on the right is fresh.",
+    "score": 0.9241402745246887
+  },
+  {
+    "index": 165,
+    "prompt": "On display, a long, white dress contrasts sharply with a short, dark dress beside it.",
+    "score": 1.8553913605501293e-07
+  },
+  {
+    "index": 166,
+    "prompt": "One person makes a humorous face as another watches.",
+    "score": 0.0014927518786862493
+  },
+  {
+    "index": 167,
+    "prompt": "An old owl watches as a young owl tries its first flight.",
+    "score": 0.9523463845252991
+  },
+  {
+    "index": 168,
+    "prompt": "The girl with glasses is drawing, and the girl without glasses is singing.",
+    "score": 0.49999019503593445
+  },
+  {
+    "index": 169,
+    "prompt": "The dog with a leash sits quietly, and the other without a leash runs wildly.",
+    "score": 0.006692829076200724
+  },
+  {
+    "index": 170,
+    "prompt": "The smiling child gives an apple to the frowning child.",
+    "score": 0.00407011853531003
+  },
+  {
+    "index": 171,
+    "prompt": "The brown dog chases the black dog around the tree.",
+    "score": 0.6791559457778931
+  },
+  {
+    "index": 172,
+    "prompt": "In the supermarket, a man with glasses pays a man without glasses.",
+    "score": 0.037325553596019745
+  },
+  {
+    "index": 173,
+    "prompt": "There are three men, the one in the center is jumping, and the others are standing.",
+    "score": 0.20181229710578918
+  },
+  {
+    "index": 174,
+    "prompt": "A happy woman is on the right of a sad woman.",
+    "score": 0.03687550872564316
+  },
+  {
+    "index": 175,
+    "prompt": "The two lay in bed, the long-haired one asleep, the short-haired one still awake.",
+    "score": 0.37753546237945557
+  },
+  {
+    "index": 176,
+    "prompt": "An injured man sitting on the ground with a man to his right who is helping him.",
+    "score": 0.9995666742324829
+  },
+  {
+    "index": 177,
+    "prompt": "The larger person wears a yellow hat and the smaller person does not.",
+    "score": 1.9555681518568235e-08
+  },
+  {
+    "index": 178,
+    "prompt": "Two people are running, the person with red legs is running quite slowly and the yellow-legged one is running faster.",
+    "score": 0.4999580383300781
+  },
+  {
+    "index": 179,
+    "prompt": "Adjacent houses stand side by side; the left one sports a chimney, while the right one has none.",
+    "score": 0.9770181775093079
+  },
+  {
+    "index": 180,
+    "prompt": "A bird chirping melodiously on the right, with another listening intently on the left.",
+    "score": 0.00020342684001661837
+  },
+  {
+    "index": 181,
+    "prompt": "A single snowflake falls gracefully among others swirling chaotically in the wind.",
+    "score": 0.0013250209158286452
+  },
+  {
+    "index": 182,
+    "prompt": "An old artist holding a paintbrush faces a young artist wielding a pencil.",
+    "score": 0.970686674118042
+  },
+  {
+    "index": 183,
+    "prompt": "Among a group of pastel-colored balloons, one stands out in vibrant red.",
+    "score": 0.9999596476554871
+  },
+  {
+    "index": 184,
+    "prompt": "A runner in blue shoes speeds past another in red shoes.",
+    "score": 0.996823787689209
+  },
+  {
+    "index": 185,
+    "prompt": "A tailless, not black, cat is sitting.",
+    "score": 1.670141500653699e-05
+  },
+  {
+    "index": 186,
+    "prompt": "A smiling girl with short hair and no glasses.",
+    "score": 0.8796911835670471
+  },
+  {
+    "index": 187,
+    "prompt": "A bookshelf with no books, only a single red vase.",
+    "score": 1.275190584237862e-07
+  },
+  {
+    "index": 188,
+    "prompt": "A bird with no feathers on its head, perched alone.",
+    "score": 0.02931215614080429
+  },
+  {
+    "index": 189,
+    "prompt": "A car, not red, without its front wheels, parked.",
+    "score": 2.510999053129126e-08
+  },
+  {
+    "index": 190,
+    "prompt": "A yellow bird sings, a cat does not sing.",
+    "score": 0.04742417857050896
+  },
+  {
+    "index": 191,
+    "prompt": "A pair of glasses without lenses.",
+    "score": 0.14804650843143463
+  },
+  {
+    "index": 192,
+    "prompt": "A colorful skirt has an uncolorful hem.",
+    "score": 0.00020342684001661837
+  },
+  {
+    "index": 193,
+    "prompt": "A plate with no food, only a fork and a knife.",
+    "score": 0.9859342575073242
+  },
+  {
+    "index": 194,
+    "prompt": "A book on the desk isn't open and a book below the desk is open.",
+    "score": 0.0005527777248062193
+  },
+  {
+    "index": 195,
+    "prompt": "A person without a hat pays a person with a hat.",
+    "score": 9.736200734522527e-10
+  },
+  {
+    "index": 196,
+    "prompt": "The larger person wears blue and the smaller person does not.",
+    "score": 0.0031726800370961428
+  },
+  {
+    "index": 197,
+    "prompt": "six people wear white shirts and no people wear red shirts.",
+    "score": 9.610230335965753e-05
+  },
+  {
+    "index": 198,
+    "prompt": "A cat without visible ears is riding.",
+    "score": 3.927859779651044e-07
+  },
+  {
+    "index": 199,
+    "prompt": "Four elephants, no giraffes.",
+    "score": 4.139937459513021e-08
+  },
+  {
+    "index": 200,
+    "prompt": "two people; the one on the right has long hair and the one on the left doesn't.",
+    "score": 0.0953492522239685
+  },
+  {
+    "index": 201,
+    "prompt": "A person with short hair is crying while a person with long hair is not.",
+    "score": 0.014058852568268776
+  },
+  {
+    "index": 202,
+    "prompt": "the pet on the right is blue and the one on the left is not.",
+    "score": 0.9999868273735046
+  },
+  {
+    "index": 203,
+    "prompt": "a person without a hat pushes a person with a hat sitting in a box.",
+    "score": 8.481103577651083e-05
+  },
+  {
+    "index": 204,
+    "prompt": "In a race between a tortoise and a hare, the tortoise takes a nap, but the hare does not.",
+    "score": 0.008577468805015087
+  },
+  {
+    "index": 205,
+    "prompt": "There are some apples on the table, no oranges.",
+    "score": 0.9999858736991882
+  },
+  {
+    "index": 206,
+    "prompt": "A garden where flowers grow out of pots without soil.",
+    "score": 0.0001795276766642928
+  },
+  {
+    "index": 207,
+    "prompt": "A garden with flowers, but no bees to be seen.",
+    "score": 2.7535661502042785e-05
+  },
+  {
+    "index": 208,
+    "prompt": "A bookshelf with no books, only picture frames.",
+    "score": 1.1861120086109622e-08
+  },
+  {
+    "index": 209,
+    "prompt": "A car drives down the road without wheels, floating above the ground.",
+    "score": 0.03732682764530182
+  },
+  {
+    "index": 210,
+    "prompt": "The tallest tree in the forest has no leaves, while the smallest one is lush and green.",
+    "score": 1.275186889415636e-07
+  },
+  {
+    "index": 211,
+    "prompt": "A car moves forward but a bicycle doesn't.",
+    "score": 0.003172648372128606
+  },
+  {
+    "index": 212,
+    "prompt": "A vase with water, but no flowers to nourish.",
+    "score": 6.825603549032166e-08
+  },
+  {
+    "index": 213,
+    "prompt": "A snowman with a hat, and no scarf around its neck.",
+    "score": 3.3982678893096363e-09
+  },
+  {
+    "index": 214,
+    "prompt": "A mountain with no snow, under a bright sky.",
+    "score": 1.275190584237862e-07
+  },
+  {
+    "index": 215,
+    "prompt": "A cat sleeps peacefully in a dog's bed, while the dog has no choice but to nap on the floor.",
+    "score": 9.422445828022319e-07
+  },
+  {
+    "index": 216,
+    "prompt": "A beach with no people, no shells.",
+    "score": 4.222831194056198e-06
+  },
+  {
+    "index": 217,
+    "prompt": "A tree with no leaves, standing in a field of green.",
+    "score": 0.99979567527771
+  },
+  {
+    "index": 218,
+    "prompt": "A modern home office setup, a computer monitor on the desk showing a digital calendar with 'Meeting at 3 PM' highlighted.",
+    "score": 0.9990851283073425
+  },
+  {
+    "index": 219,
+    "prompt": "A busy urban intersection, a traffic sign at the roadside displaying 'Speed Limit 30 mph'.",
+    "score": 0.14804410934448242
+  },
+  {
+    "index": 220,
+    "prompt": "A typewriter on a wooden desk, paper rolled in displaying the words 'Chapter 1' in classic font.",
+    "score": 0.9999642968177795
+  },
+  {
+    "index": 221,
+    "prompt": "A rustic bakery storefront, the window adorned with a 'Fresh Breads Daily' sign, loaves visible behind the glass.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 222,
+    "prompt": "A serene beach scene at sunset with 'Paradise Awaits' written in the sand, the ocean gently lapping at the letters.",
+    "score": 0.9999638199806213
+  },
+  {
+    "index": 223,
+    "prompt": "A bustling city street, a neon 'Open 24 Hours' sign glowing above a small diner.",
+    "score": 0.8172895908355713
+  },
+  {
+    "index": 224,
+    "prompt": "A snowy mountain peak with a wooden signpost reading 'Summit Trail' against a clear blue sky.",
+    "score": 0.9999776482582092
+  },
+  {
+    "index": 225,
+    "prompt": "A garden gate with 'Welcome Friends' painted on a hanging wooden plaque, surrounded by blooming flowers.",
+    "score": 0.9999983906745911
+  },
+  {
+    "index": 226,
+    "prompt": "An elegant wedding venue, a 'Just Married' banner draped across the back of a vintage car.",
+    "score": 0.9933051466941833
+  },
+  {
+    "index": 227,
+    "prompt": "'Book Nook' carved on a small library door, lantern-lit beside.",
+    "score": 0.9999952912330627
+  },
+  {
+    "index": 228,
+    "prompt": "A 'No Parking' sign on a busy street.",
+    "score": 1.670141500653699e-05
+  },
+  {
+    "index": 229,
+    "prompt": "A 'Veggie Patch' sign staked in a garden, lush greens around.",
+    "score": 0.9999986290931702
+  },
+  {
+    "index": 230,
+    "prompt": "'Tea Time' painted on a quaint cafe sign.",
+    "score": 0.9999826550483704
+  },
+  {
+    "index": 231,
+    "prompt": "'Zen Garden' etched into a stone at a peaceful retreat.",
+    "score": 8.315271315950667e-07
+  },
+  {
+    "index": 232,
+    "prompt": "'Eco Market' on a banner above a green lifestyle fair.",
+    "score": 1.0
+  },
+  {
+    "index": 233,
+    "prompt": "'Art Center' is spray-painted on the wall of the City Gallery.",
+    "score": 0.5613593459129333
+  },
+  {
+    "index": 234,
+    "prompt": "'Jazz Night' flashing on a neon sign at the entrance to the Music Lounge.",
+    "score": 0.9396302700042725
+  },
+  {
+    "index": 235,
+    "prompt": "A sign in park says 'Bike Lane.'",
+    "score": 0.9889878034591675
+  },
+  {
+    "index": 236,
+    "prompt": "A mystical forest clearing, illuminated by 'Moonlit Path' glowing runes hovering above the ground, guiding wanderers at night.",
+    "score": 0.999980628490448
+  },
+  {
+    "index": 237,
+    "prompt": "An ancient library hidden beneath the earth, 'Secrets of the Ages' inscribed on the archway, books floating around as if by magic.",
+    "score": 0.9999811053276062
+  },
+  {
+    "index": 238,
+    "prompt": "In a mysterious swamp, the flowers are taller than the trees.",
+    "score": 0.9626717567443848
+  },
+  {
+    "index": 239,
+    "prompt": "A small dog with wings, wearing a bell around its neck that is bigger than itself.",
+    "score": 0.002182713942602277
+  },
+  {
+    "index": 240,
+    "prompt": "A gigantic dog that is taller than the tree next to it.",
+    "score": 0.3775380551815033
+  },
+  {
+    "index": 241,
+    "prompt": "A magical flower is taller than the house next to it.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 242,
+    "prompt": "A green pumpkin is smiling happily, while a red pumpkin is sitting sadly.",
+    "score": 0.9399093389511108
+  },
+  {
+    "index": 243,
+    "prompt": "In a mysterious forest, the leaves of a green tree shimmer with a silvery glow, contrasting the dim leaves of a nearby red tree.",
+    "score": 0.9525696635246277
+  },
+  {
+    "index": 244,
+    "prompt": "In a magnificent castle, a red dragon sits and a green dragon flies.",
+    "score": 0.5621737837791443
+  },
+  {
+    "index": 245,
+    "prompt": "A magician holds two books; the left one is open, the right one is closed.",
+    "score": 2.2603230718232226e-06
+  },
+  {
+    "index": 246,
+    "prompt": "A mystical forest at twilight, illuminated by three floating orbs, with one unicorn drinking from a clear stream.",
+    "score": 0.9999926686286926
+  },
+  {
+    "index": 247,
+    "prompt": "One ancient scroll is unfurled inside a cavern, lit by two large crystals emitting a soft glow.",
+    "score": 0.9999948143959045
+  },
+  {
+    "index": 248,
+    "prompt": "One pirate ship sailing through space, crewed by five robots.",
+    "score": 0.0007096700137481093
+  },
+  {
+    "index": 249,
+    "prompt": "A glowing ancient tree with five lanterns, surrounded by fireflies.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 250,
+    "prompt": "Three floating islands above one waterfall in a valley.",
+    "score": 0.02595718950033188
+  },
+  {
+    "index": 251,
+    "prompt": "One phoenix soaring above a mountain, its wings shedding three golden feathers.",
+    "score": 0.9706823229789734
+  },
+  {
+    "index": 252,
+    "prompt": "A table laden with apples and bananas, where all the fruits are green.",
+    "score": 0.00591106666252017
+  },
+  {
+    "index": 253,
+    "prompt": "In a modern laboratory, all the computer screens are turned on.",
+    "score": 0.9988082051277161
+  },
+  {
+    "index": 254,
+    "prompt": "A landscape where every tree is in full bloom, with petals covering the entirety of the ground.",
+    "score": 0.7772728204727173
+  },
+  {
+    "index": 255,
+    "prompt": "Inside a library where each book spine displays a unique, intricate pattern.",
+    "score": 0.9995678663253784
+  },
+  {
+    "index": 256,
+    "prompt": "An aquarium where every tank is home to a multitude of colorful fish, swimming in harmony.",
+    "score": 0.9997377395629883
+  },
+  {
+    "index": 257,
+    "prompt": "In a square, several children are playing, each wearing a red T-shirt.",
+    "score": 0.9999722838401794
+  },
+  {
+    "index": 258,
+    "prompt": "A garden where every flower is in full bloom, showcasing a rainbow of colors.",
+    "score": 0.9999640583992004
+  },
+  {
+    "index": 259,
+    "prompt": "A bustling kitchen where every chef is preparing a dish.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 260,
+    "prompt": "On the grass, all the children are lying down, laughing joyfully.",
+    "score": 0.7309098839759827
+  },
+  {
+    "index": 261,
+    "prompt": "A classroom where every student's desk is covered with creative projects and experiments.",
+    "score": 0.9999246001243591
+  },
+  {
+    "index": 262,
+    "prompt": "In an enchanted forest, every tree is joyfully dancing.",
+    "score": 0.0024726195260882378
+  },
+  {
+    "index": 263,
+    "prompt": "Little fairies are flying in the sky, each with pink butterfly wings.",
+    "score": 0.9999980330467224
+  },
+  {
+    "index": 264,
+    "prompt": "An old-fashioned barber shop, where every chair is occupied by a customer under a barber's cape.",
+    "score": 0.9994469881057739
+  },
+  {
+    "index": 265,
+    "prompt": "A group of people are gathered at a party, all sitting around a dining table.",
+    "score": 0.9999919533729553
+  },
+  {
+    "index": 266,
+    "prompt": "Two chairs are in the room, both with books on them.",
+    "score": 0.9999985098838806
+  },
+  {
+    "index": 267,
+    "prompt": "A traditional potter's workshop, where every shelf holds rows of terracotta pots, each imprinted with intricate designs.",
+    "score": 0.9999478459358215
+  },
+  {
+    "index": 268,
+    "prompt": "A bakery where every shelf is filled with a variety of bread and pastries.",
+    "score": 0.9959277510643005
+  },
+  {
+    "index": 269,
+    "prompt": "A spotted dog, a cat and a bird on a table.",
+    "score": 0.9997950792312622
+  },
+  {
+    "index": 270,
+    "prompt": "A dog, a cat and a chicken on a table.",
+    "score": 0.679166853427887
+  },
+  {
+    "index": 271,
+    "prompt": "A young man with a green bat and a blue ball.",
+    "score": 0.9999950528144836
+  },
+  {
+    "index": 272,
+    "prompt": "A young man with a blue bat and a green ball.",
+    "score": 0.9999969601631165
+  },
+  {
+    "index": 273,
+    "prompt": "parent pointing at a child.",
+    "score": 0.9975263476371765
+  },
+  {
+    "index": 274,
+    "prompt": "A child pointing at parent.",
+    "score": 0.9046458601951599
+  },
+  {
+    "index": 275,
+    "prompt": "A young lady wearing a T-shirt puts her hand on a puppy's head.",
+    "score": 0.9914196133613586
+  },
+  {
+    "index": 276,
+    "prompt": "A young lady wearing a T-shirt puts her hand on a puppy's paw.",
+    "score": 0.9997384548187256
+  },
+  {
+    "index": 277,
+    "prompt": "A young woman wearing a red T-shirt.",
+    "score": 0.9963794350624084
+  },
+  {
+    "index": 278,
+    "prompt": "A young woman in a red long-sleeved dress.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 279,
+    "prompt": "A cat chasing a dog.",
+    "score": 1.994729927901062e-06
+  },
+  {
+    "index": 280,
+    "prompt": "A dog chasing a cat.",
+    "score": 6.144171493360773e-06
+  },
+  {
+    "index": 281,
+    "prompt": "A group of children playing in the garden.",
+    "score": 0.9999992251396179
+  },
+  {
+    "index": 282,
+    "prompt": "A group of children playing on the beach.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 283,
+    "prompt": "A woman wearing a T-shirt and gloves.",
+    "score": 0.9997962713241577
+  },
+  {
+    "index": 284,
+    "prompt": "A woman in a long-sleeved dress with a ring.",
+    "score": 0.9999937415122986
+  },
+  {
+    "index": 285,
+    "prompt": "A spotted dog, a cat and a bird on a round table.",
+    "score": 0.9998412728309631
+  },
+  {
+    "index": 286,
+    "prompt": "A dog, a cat and a bird on a chair.",
+    "score": 0.9988269805908203
+  },
+  {
+    "index": 287,
+    "prompt": "A boy and a dog standing in the desert.",
+    "score": 0.9999933838844299
+  },
+  {
+    "index": 288,
+    "prompt": "A boy and a dog standing on the beach.",
+    "score": 0.998070478439331
+  },
+  {
+    "index": 289,
+    "prompt": "A man is hugging a box full of flowers on the floor.",
+    "score": 0.9999248385429382
+  },
+  {
+    "index": 290,
+    "prompt": "A man is pushing a box full of flowers on the floor.",
+    "score": 0.022977301850914955
+  },
+  {
+    "index": 291,
+    "prompt": "A young man is holding a blue bat and a green ball.",
+    "score": 0.9999992251396179
+  },
+  {
+    "index": 292,
+    "prompt": "One cat is sleeping on the table and the other is playing under the table.",
+    "score": 0.09534814208745956
+  },
+  {
+    "index": 293,
+    "prompt": "One cat is sleeping on the table and the other one is awake under the table.",
+    "score": 2.510999053129126e-08
+  },
+  {
+    "index": 294,
+    "prompt": "There is a watering can and a flowerpot on the table, the watering can is bigger than the flowerpot.",
+    "score": 0.9046422243118286
+  },
+  {
+    "index": 295,
+    "prompt": "A cute dog without a collar.",
+    "score": 0.00013982188829686493
+  },
+  {
+    "index": 296,
+    "prompt": "A cat is not black and its tail isn't visible.",
+    "score": 1.067703010448895e-06
+  },
+  {
+    "index": 297,
+    "prompt": "In the bedroom, there are three chairs with a book on each of them.",
+    "score": 0.999289870262146
+  },
+  {
+    "index": 298,
+    "prompt": "there are four chairs in the bedroom.",
+    "score": 0.43781885504722595
+  },
+  {
+    "index": 299,
+    "prompt": "The chairs in the bedroom are all white.",
+    "score": 0.993282675743103
+  },
+  {
+    "index": 300,
+    "prompt": "A woman with red lipstick and a polka dot dress.",
+    "score": 0.6791280508041382
+  },
+  {
+    "index": 301,
+    "prompt": "An artist in a paint-splattered apron holding a palette.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 302,
+    "prompt": "A man in a lab coat examining a beaker of colorful liquid.",
+    "score": 0.9975269436836243
+  },
+  {
+    "index": 303,
+    "prompt": "A girl with pigtails is holding a giant sunflower.",
+    "score": 0.9980720281600952
+  },
+  {
+    "index": 304,
+    "prompt": "A skateboarder performing a trick in an urban skate park.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 305,
+    "prompt": "A fisherman casting a line at sunrise by a tranquil lake.",
+    "score": 0.9998735785484314
+  },
+  {
+    "index": 306,
+    "prompt": "A pilot in aviator sunglasses stepping into a small plane.",
+    "score": 0.9990883469581604
+  },
+  {
+    "index": 307,
+    "prompt": "A young librarian is shelving books in a cozy library corner.",
+    "score": 0.0007096700137481093
+  },
+  {
+    "index": 308,
+    "prompt": "A farmer in overalls tending to a field of corn.",
+    "score": 0.9932854771614075
+  },
+  {
+    "index": 309,
+    "prompt": "A child blowing bubbles in a field of daisies.",
+    "score": 0.9999722838401794
+  },
+  {
+    "index": 310,
+    "prompt": "A surfer riding a large wave at sunset.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 311,
+    "prompt": "A hiker reaching the summit of a mountain with arms raised.",
+    "score": 0.9999986290931702
+  },
+  {
+    "index": 312,
+    "prompt": "A dancer in a flowing dress spinning in a spotlight.",
+    "score": 0.9999905228614807
+  },
+  {
+    "index": 313,
+    "prompt": "A sculptor chiseling a piece of marble.",
+    "score": 0.9999544024467468
+  },
+  {
+    "index": 314,
+    "prompt": "A barista creating latte art in a cozy cafe.",
+    "score": 0.7772876024246216
+  },
+  {
+    "index": 315,
+    "prompt": "A cyclist racing down a winding mountain path.",
+    "score": 0.9999247193336487
+  },
+  {
+    "index": 316,
+    "prompt": "A gardener pruning roses in a vibrant garden.",
+    "score": 0.9999919533729553
+  },
+  {
+    "index": 317,
+    "prompt": "Two joggers running along a misty riverbank at dawn.",
+    "score": 0.9999939799308777
+  },
+  {
+    "index": 318,
+    "prompt": "A violinist playing in a candlelit room.",
+    "score": 0.9999985098838806
+  },
+  {
+    "index": 319,
+    "prompt": "A mechanic working under the hood of a classic car.",
+    "score": 0.2689052224159241
+  },
+  {
+    "index": 320,
+    "prompt": "A nurse comforting a patient in a hospital room.",
+    "score": 0.9999992251396179
+  },
+  {
+    "index": 321,
+    "prompt": "A teacher standing in front of a world map in a classroom.",
+    "score": 0.9999898076057434
+  },
+  {
+    "index": 322,
+    "prompt": "A child hunting for treasure with a metal detector on the beach.",
+    "score": 0.9999956488609314
+  },
+  {
+    "index": 323,
+    "prompt": "A beekeeper tending to hives in a field of lavender.",
+    "score": 0.9999896883964539
+  },
+  {
+    "index": 324,
+    "prompt": "A photographer capturing a butterfly on a wildflower.",
+    "score": 0.9947789907455444
+  },
+  {
+    "index": 325,
+    "prompt": "A jogger and their dog running on the beach.",
+    "score": 0.9999645352363586
+  },
+  {
+    "index": 326,
+    "prompt": "A magician pulling a rabbit out of a hat.",
+    "score": 0.9992895126342773
+  },
+  {
+    "index": 327,
+    "prompt": "A detective examining clues with a magnifying glass.",
+    "score": 0.999993622303009
+  },
+  {
+    "index": 328,
+    "prompt": "A bride throwing her bouquet in a garden wedding.",
+    "score": 0.18242420256137848
+  },
+  {
+    "index": 329,
+    "prompt": "A street performer juggling fire torches at night.",
+    "score": 0.9992896318435669
+  },
+  {
+    "index": 330,
+    "prompt": "A child is making a sandcastle on a beach on a cloudy day.",
+    "score": 0.9999898076057434
+  },
+  {
+    "index": 331,
+    "prompt": "A mountain biker leaping over a log on a forest trail.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 332,
+    "prompt": "A monk meditating beside a tranquil mountain stream.",
+    "score": 0.9999681115150452
+  },
+  {
+    "index": 333,
+    "prompt": "A florist arranging a bouquet of colorful flowers.",
+    "score": 0.9770185351371765
+  },
+  {
+    "index": 334,
+    "prompt": "A saxophonist playing a soulful tune in a jazz club.",
+    "score": 0.9999950528144836
+  },
+  {
+    "index": 335,
+    "prompt": "A gymnast performing a routine on the balance beam.",
+    "score": 1.0
+  },
+  {
+    "index": 336,
+    "prompt": "A vampire lurking in the shadows of an old castle.",
+    "score": 0.999737024307251
+  },
+  {
+    "index": 337,
+    "prompt": "A wizard casting a spell with a wand in a mystical forest.",
+    "score": 1.0
+  },
+  {
+    "index": 338,
+    "prompt": "A ghost hunter investigating an abandoned mansion.",
+    "score": 0.845779538154602
+  },
+  {
+    "index": 339,
+    "prompt": "A mermaid basking on a rock by the moonlit sea.",
+    "score": 0.9999975562095642
+  },
+  {
+    "index": 340,
+    "prompt": "A knight in shining armor jousting at a medieval fair.",
+    "score": 0.9902886748313904
+  },
+  {
+    "index": 341,
+    "prompt": "A robot dancing in a futuristic cityscape.",
+    "score": 0.9999944567680359
+  },
+  {
+    "index": 342,
+    "prompt": "An astronaut planting a flag on a distant planet.",
+    "score": 0.2225649207830429
+  },
+  {
+    "index": 343,
+    "prompt": "Kids race their bikes down the hill as their friends cheer from the sidelines, and a kite flutters in the breeze above them.",
+    "score": 0.9999895691871643
+  },
+  {
+    "index": 344,
+    "prompt": "A sailboat drifts lazily along the river, with swans paddling gently beside it and willows weeping at its banks.",
+    "score": 0.9999975562095642
+  },
+  {
+    "index": 345,
+    "prompt": "Sunglasses rest atop a magazine, and a beach towel is spread out on the sand.",
+    "score": 0.9999545216560364
+  },
+  {
+    "index": 346,
+    "prompt": "A wilderness scene, wildflowers blooming on the right while a dense forest stands to the left.",
+    "score": 0.32081297039985657
+  },
+  {
+    "index": 347,
+    "prompt": "In the study, a desk lamp casts a warm glow over an open journal and a fountain pen.",
+    "score": 0.7310236692428589
+  },
+  {
+    "index": 348,
+    "prompt": "Bookends hold a row of novels in place: one end features a sculpture of a cat, the other a dog.",
+    "score": 0.9996642470359802
+  },
+  {
+    "index": 349,
+    "prompt": "A bridge arches over the river, with lanterns lit on one side and the other in darkness.",
+    "score": 0.7772895097732544
+  },
+  {
+    "index": 350,
+    "prompt": "A notebook lies open in the grass, with sketches on the left page and blank space on the right.",
+    "score": 0.9999331831932068
+  },
+  {
+    "index": 351,
+    "prompt": "On a busy desk, a lamp sheds light on a cluttered area filled with papers, while the other half remains organized.",
+    "score": 0.025957221165299416
+  },
+  {
+    "index": 352,
+    "prompt": "In the park, a statue stands in the middle, surrounded by blooming flowers and people enjoying a sunny day.",
+    "score": 0.9999882578849792
+  },
+  {
+    "index": 353,
+    "prompt": "Tea steams in a cup, next to a closed diary with a pen resting on its cover.",
+    "score": 0.9999968409538269
+  },
+  {
+    "index": 354,
+    "prompt": "A balloon drifts gently up into the blue sky, with excited children watching from the ground.",
+    "score": 0.9399080872535706
+  },
+  {
+    "index": 355,
+    "prompt": "Inside the camp, a fire crackles, casting shadows on the tent walls, with backpacks and maps spread out.",
+    "score": 0.9994453191757202
+  },
+  {
+    "index": 356,
+    "prompt": "There are two men in the living room, the taller one to the left of the shorter one.",
+    "score": 0.9992902278900146
+  },
+  {
+    "index": 357,
+    "prompt": "In the garden, there is a pack of dogs playing, the biggest one is red and the others are white.",
+    "score": 0.9968186616897583
+  },
+  {
+    "index": 358,
+    "prompt": "Two birds are chasing each other in the air, with the one flying higher having a long tail and the other bird having a short tail.",
+    "score": 0.18241184949874878
+  },
+  {
+    "index": 359,
+    "prompt": "In the classroom, two boys standing together, the boy in the red jumper is taller than the boy in the white t-shirt.",
+    "score": 0.005220123566687107
+  },
+  {
+    "index": 360,
+    "prompt": "There are two shoes on the grass, the one without laces looks newer than the one with laces.",
+    "score": 0.0005527782486751676
+  },
+  {
+    "index": 361,
+    "prompt": "At the beach, three seashells lie close together: the largest has a spiraled pattern, the medium one is smooth and white, and the smallest has stripes.",
+    "score": 2.14449373743264e-05
+  },
+  {
+    "index": 362,
+    "prompt": "Two kites are flying high in the sky, the dragon-shaped one flies higher and is more colorful than the geometric-patterned one.",
+    "score": 0.9999412894248962
+  },
+  {
+    "index": 363,
+    "prompt": "On the bookshelf, the picture frame on the left, containing a black and white photograph, appears older than the colorful painting on the right.",
+    "score": 0.8518498539924622
+  },
+  {
+    "index": 364,
+    "prompt": "On the road, two cars drive parallel: the faster one is a sleek sports model, while the slower one is a large, family SUV.",
+    "score": 0.3208198547363281
+  },
+  {
+    "index": 365,
+    "prompt": "In the pond, two ducks swim near each other: the larger one has a bright green head, while the smaller one is all brown.",
+    "score": 0.0009110505343414843
+  },
+  {
+    "index": 366,
+    "prompt": "Between the two cups on the desk, the taller one holds more coffee than the shorter one, which is half-empty.",
+    "score": 0.9770195484161377
+  },
+  {
+    "index": 367,
+    "prompt": "In the park, the older tree is taller and has more branches than the younger sapling planted beside it.",
+    "score": 5.828365829074755e-05
+  },
+  {
+    "index": 368,
+    "prompt": "A red book lies open with pages fluttering in the wind, another blue one remains closed and still.",
+    "score": 0.9626685976982117
+  },
+  {
+    "index": 369,
+    "prompt": "Two children laugh joyfully, the bigger one holding a balloon, and the other clutching a toy.",
+    "score": 0.999841034412384
+  },
+  {
+    "index": 370,
+    "prompt": "Two birds soar high above the clouds, while another glides low over the water.",
+    "score": 0.009708428755402565
+  },
+  {
+    "index": 371,
+    "prompt": "A cyclist wearing glasses speeds down the hill with ease, and another one without glasses climbs up slowly and steadily.",
+    "score": 0.00026119028916582465
+  },
+  {
+    "index": 372,
+    "prompt": "A tree laden with ripe oranges stands in front of a tree with green, unripe fruit.",
+    "score": 0.9525604844093323
+  },
+  {
+    "index": 373,
+    "prompt": "One circular window shines brightly with light, another rectangular one is dark.",
+    "score": 2.9023121896898374e-06
+  },
+  {
+    "index": 374,
+    "prompt": "Two cats sit at the window, the blue one intently watching the rain, the red one curled up asleep.",
+    "score": 0.7772731184959412
+  },
+  {
+    "index": 375,
+    "prompt": "Two birds perch on a branch, the happy one chirping loudly, the sad one listening silently.",
+    "score": 0.3207660913467407
+  },
+  {
+    "index": 376,
+    "prompt": "One sports car zooms around the corner with speed, while another standard car navigates the turn slowly and carefully.",
+    "score": 0.02297680452466011
+  },
+  {
+    "index": 377,
+    "prompt": "A short sunflower stands tall and faces the sun, while another tall one bends towards the ground.",
+    "score": 0.00080408516805619
+  },
+  {
+    "index": 378,
+    "prompt": "One person in white jogs with a steady pace, one person in red sprints with all their might.",
+    "score": 0.022977177053689957
+  },
+  {
+    "index": 379,
+    "prompt": "One squirrel gathers nuts quickly on the ground, another lazily stretches on a branch.",
+    "score": 0.0031726800370961428
+  },
+  {
+    "index": 380,
+    "prompt": "A butterfly with bright wings flits from flower to flower, another rests on a leaf, wings folded.",
+    "score": 0.003172648372128606
+  },
+  {
+    "index": 381,
+    "prompt": "A puppy on the right chases its tail in circles, while another one on the left lies quietly, watching.",
+    "score": 1.0677019872673554e-06
+  },
+  {
+    "index": 382,
+    "prompt": "A silver spoon lies to the left of a golden fork on a wooden table.",
+    "score": 0.9984972476959229
+  },
+  {
+    "index": 383,
+    "prompt": "A black cat sits on a window sill, while a white cat lies beneath the sill in the sunlight.",
+    "score": 0.8519370555877686
+  },
+  {
+    "index": 384,
+    "prompt": "A red book on a shelf above a blue book in a cozy reading nook.",
+    "score": 0.9988281726837158
+  },
+  {
+    "index": 385,
+    "prompt": "A big green apple next to a small red apple on a kitchen counter.",
+    "score": 0.0040701283141970634
+  },
+  {
+    "index": 386,
+    "prompt": "A tall cactus in a terracotta pot next to a short succulent in a ceramic bowl.",
+    "score": 0.5621507167816162
+  },
+  {
+    "index": 387,
+    "prompt": "A yellow school bus in front of a red fire engine at a community event.",
+    "score": 0.9980677366256714
+  },
+  {
+    "index": 388,
+    "prompt": "A blue bicycle leaning against a red brick wall, with a green bicycle parked beside it.",
+    "score": 0.001169506460428238
+  },
+  {
+    "index": 389,
+    "prompt": "A brown oak tree with lush leaves next to a birch tree with peeling bark in a forest.",
+    "score": 0.9999539256095886
+  },
+  {
+    "index": 390,
+    "prompt": "A fluffy white cloud above a darker storm cloud at sunset.",
+    "score": 0.9046410918235779
+  },
+  {
+    "index": 391,
+    "prompt": "A small pond with a black swan on the left and a white swan on the right.",
+    "score": 0.9999867081642151
+  },
+  {
+    "index": 392,
+    "prompt": "A striped beach umbrella in the sand with a solid blue umbrella behind it.",
+    "score": 0.999738335609436
+  },
+  {
+    "index": 393,
+    "prompt": "A large pizza with pepperoni on the left half and mushrooms on the right half.",
+    "score": 0.9959287047386169
+  },
+  {
+    "index": 394,
+    "prompt": "A red rose in full bloom next to a pink rosebud in a garden.",
+    "score": 0.985935628414154
+  },
+  {
+    "index": 395,
+    "prompt": "A vintage analog clock hangs on the wall above a modern digital clock that sits on a desk.",
+    "score": 0.99979567527771
+  },
+  {
+    "index": 396,
+    "prompt": "A large teddy bear wearing a bow tie next to a small teddy bear wearing a party hat.",
+    "score": 0.9933040738105774
+  },
+  {
+    "index": 397,
+    "prompt": "An orange tabby cat lounges on a sunny windowsill, with a grey tabby stretching on the floor below.",
+    "score": 0.49999818205833435
+  },
+  {
+    "index": 398,
+    "prompt": "A leather-bound journal atop an oak desk, beside a stack of vintage paperbacks.",
+    "score": 0.999370813369751
+  },
+  {
+    "index": 399,
+    "prompt": "A pair of yellow rubber boots standing at the doorstep, with a pair of green gardening gloves draped over them.",
+    "score": 0.9994463920593262
+  },
+  {
+    "index": 400,
+    "prompt": "A chocolate cupcake with vanilla frosting on a plate, beside a vanilla cupcake with chocolate frosting.",
+    "score": 0.3208191394805908
+  },
+  {
+    "index": 401,
+    "prompt": "A rustic wooden bench under a sprawling oak, with a modern metal chair facing it across a stone path.",
+    "score": 0.999841034412384
+  },
+  {
+    "index": 402,
+    "prompt": "A steaming cup of coffee on a bookshelf, above a row of antique tea cups.",
+    "score": 0.5621694922447205
+  },
+  {
+    "index": 403,
+    "prompt": "A plush velvet armchair in the corner of a library, with a sleek leather sofa along the opposite wall.",
+    "score": 0.1480468511581421
+  },
+  {
+    "index": 404,
+    "prompt": "In the cafe, there's a steaming cup of coffee and a freshly baked croissant on every table.",
+    "score": 0.0292554572224617
+  },
+  {
+    "index": 405,
+    "prompt": "A serene yoga studio with several yoga mats, each with a person seated in deep meditation.",
+    "score": 0.9992896318435669
+  },
+  {
+    "index": 406,
+    "prompt": "A snowy forest glistens with delicate ice crystals adorning every branch.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 407,
+    "prompt": "An antique bookshop with aisles filled with books.",
+    "score": 0.9999955296516418
+  },
+  {
+    "index": 408,
+    "prompt": "A rooftop garden with a row of planters, each filled with herbs and flowers.",
+    "score": 0.9999826550483704
+  },
+  {
+    "index": 409,
+    "prompt": "A tree shadow on every car in the lot.",
+    "score": 0.8519488573074341
+  },
+  {
+    "index": 410,
+    "prompt": "Orange juice and toast on every breakfast table.",
+    "score": 0.00043052592081949115
+  },
+  {
+    "index": 411,
+    "prompt": "At the party, a pineapple is flanked by beers on each side.",
+    "score": 0.9968255758285522
+  },
+  {
+    "index": 412,
+    "prompt": "Near every parked pickup truck, there's a horse standing by.",
+    "score": 0.7772947549819946
+  },
+  {
+    "index": 413,
+    "prompt": "Leaves falling on every car in the autumn.",
+    "score": 0.9975215792655945
+  },
+  {
+    "index": 414,
+    "prompt": "At a birthday party, all the balloons are red.",
+    "score": 0.9959263801574707
+  },
+  {
+    "index": 415,
+    "prompt": "A group of children are playing in the garden and all the children are not wearing shoes.",
+    "score": 0.9820101857185364
+  },
+  {
+    "index": 416,
+    "prompt": "Several cups are on a round table and all the cups are incomplete.",
+    "score": 0.18242081999778748
+  },
+  {
+    "index": 417,
+    "prompt": "Every child in the classroom has a smile on their face.",
+    "score": 0.5620840191841125
+  },
+  {
+    "index": 418,
+    "prompt": "Basking in the sunshine, all the cats are peacefully sleeping.",
+    "score": 0.9999976754188538
+  },
+  {
+    "index": 419,
+    "prompt": "Every tree in the forest is covered in snow, creating a serene winter landscape.",
+    "score": 0.4999885559082031
+  },
+  {
+    "index": 420,
+    "prompt": "In the park, every bench is occupied by people enjoying their books.",
+    "score": 0.9240953326225281
+  },
+  {
+    "index": 421,
+    "prompt": "On the farm, each animal is settling down for the night.",
+    "score": 0.9994252324104309
+  },
+  {
+    "index": 422,
+    "prompt": "Every tree in the forest is green, except for one that is red.",
+    "score": 0.9999406933784485
+  },
+  {
+    "index": 423,
+    "prompt": "In a room, all the chairs are occupied except one.",
+    "score": 1.4449801710725296e-07
+  },
+  {
+    "index": 424,
+    "prompt": "All the books on the shelf are closed, except for one that lies open.",
+    "score": 0.9999035000801086
+  },
+  {
+    "index": 425,
+    "prompt": "Among all the cars in the parking lot, each one is parked neatly except for one that is askew.",
+    "score": 0.4999777376651764
+  },
+  {
+    "index": 426,
+    "prompt": "In a field of flowers, every bloom is yellow, save for one that is blue.",
+    "score": 1.8189616479702408e-09
+  },
+  {
+    "index": 427,
+    "prompt": "In a line of dominoes, each one stands upright, except for one that has fallen over.",
+    "score": 0.0031726800370961428
+  },
+  {
+    "index": 428,
+    "prompt": "In a collection of hats, each one is plain, but one is adorned with feathers.",
+    "score": 1.1253517584464134e-07
+  },
+  {
+    "index": 429,
+    "prompt": "Every lamp in the street is lit, except for one that remains dark.",
+    "score": 0.09534870833158493
+  },
+  {
+    "index": 430,
+    "prompt": "In a pack of wolves, each one howls at the moon, but one remains silent.",
+    "score": 0.8519406318664551
+  },
+  {
+    "index": 431,
+    "prompt": "All the doors in the hallway are closed, except for one that is slightly ajar.",
+    "score": 0.32081860303878784
+  },
+  {
+    "index": 432,
+    "prompt": "A tree with no leaves, only shadows beneath.",
+    "score": 0.9998193383216858
+  },
+  {
+    "index": 433,
+    "prompt": "A sky with stars, but no moon in sight.",
+    "score": 0.9997376203536987
+  },
+  {
+    "index": 434,
+    "prompt": "A street with no people, only lights.",
+    "score": 0.9999248385429382
+  },
+  {
+    "index": 435,
+    "prompt": "A birdcage with no door, yet no bird inside.",
+    "score": 0.0024726134724915028
+  },
+  {
+    "index": 436,
+    "prompt": "A shoe with no laces, standing alone.",
+    "score": 6.825603549032166e-08
+  },
+  {
+    "index": 437,
+    "prompt": "A garden with no paths, only wildflowers.",
+    "score": 1.0467401168057222e-08
+  },
+  {
+    "index": 438,
+    "prompt": "A kitchen with no stove, only empty counters.",
+    "score": 6.475946179307357e-07
+  },
+  {
+    "index": 439,
+    "prompt": "A boat with no sails, adrift on calm waters.",
+    "score": 0.9975244402885437
+  },
+  {
+    "index": 440,
+    "prompt": "A painting with no colors, only shades of gray.",
+    "score": 0.9996631741523743
+  },
+  {
+    "index": 441,
+    "prompt": "A bridge with no end, vanishing into the fog.",
+    "score": 0.9999238848686218
+  },
+  {
+    "index": 442,
+    "prompt": "A glass with no water, only ice melting.",
+    "score": 0.07585811614990234
+  },
+  {
+    "index": 443,
+    "prompt": "A bed with no pillows, only a folded blanket.",
+    "score": 3.581747953784742e-10
+  },
+  {
+    "index": 444,
+    "prompt": "A bike with no pedals.",
+    "score": 0.0007096703629940748
+  },
+  {
+    "index": 445,
+    "prompt": "A ball with no bounce, lying still.",
+    "score": 0.9240117073059082
+  },
+  {
+    "index": 446,
+    "prompt": "A coat with no buttons, hanging loosely.",
+    "score": 1.7603429114387836e-06
+  },
+  {
+    "index": 447,
+    "prompt": "Two children sitting on the bed, the one on the left making faces, the one on the right not making faces.",
+    "score": 0.022967688739299774
+  },
+  {
+    "index": 448,
+    "prompt": "A library with no books on the shelves.",
+    "score": 4.363462036138799e-09
+  },
+  {
+    "index": 449,
+    "prompt": "A beach without any footprints in the sand.",
+    "score": 0.9975255131721497
+  },
+  {
+    "index": 450,
+    "prompt": "A forest where no animals can be seen.",
+    "score": 0.9980537295341492
+  },
+  {
+    "index": 451,
+    "prompt": "A sky without a single cloud.",
+    "score": 7.194132845000922e-09
+  },
+  {
+    "index": 452,
+    "prompt": "A garden with no flowers blooming.",
+    "score": 1.8189616479702408e-09
+  },
+  {
+    "index": 453,
+    "prompt": "A classroom with every chair empty.",
+    "score": 0.999445915222168
+  },
+  {
+    "index": 454,
+    "prompt": "A clock with no hands to tell the time.",
+    "score": 9.422445828022319e-07
+  },
+  {
+    "index": 455,
+    "prompt": "A playground with no children playing.",
+    "score": 0.9998748898506165
+  },
+  {
+    "index": 456,
+    "prompt": "A road with no signs or markings.",
+    "score": 2.510999053129126e-08
+  },
+  {
+    "index": 457,
+    "prompt": "A river with no fish swimming.",
+    "score": 0.9958550930023193
+  },
+  {
+    "index": 458,
+    "prompt": "A mountain with no snow on its peak.",
+    "score": 0.02033231034874916
+  },
+  {
+    "index": 459,
+    "prompt": "A field without a single blade of grass.",
+    "score": 1.994729927901062e-06
+  },
+  {
+    "index": 460,
+    "prompt": "A garden full of flowers, yet not a single rose can be found.",
+    "score": 3.0590203436986485e-07
+  },
+  {
+    "index": 461,
+    "prompt": "Two trees standing tall; one is leafy, and the other is not.",
+    "score": 0.0028009165544062853
+  },
+  {
+    "index": 462,
+    "prompt": "A bustling city street with cars, but no bicycles.",
+    "score": 9.23744991609965e-09
+  },
+  {
+    "index": 463,
+    "prompt": "A bookshelf filled with books, but not a single magazine.",
+    "score": 0.9240227937698364
+  },
+  {
+    "index": 464,
+    "prompt": "A kitchen with every appliance except a microwave.",
+    "score": 5.715002089345944e-07
+  },
+  {
+    "index": 465,
+    "prompt": "A classroom full of students, but no teacher in sight.",
+    "score": 0.9959231615066528
+  },
+  {
+    "index": 466,
+    "prompt": "A snowy landscape with a cabin, but no smoke from the chimney.",
+    "score": 1.1861120086109622e-08
+  },
+  {
+    "index": 467,
+    "prompt": "A pair of shoes, one tied and the other not.",
+    "score": 0.022977333515882492
+  },
+  {
+    "index": 468,
+    "prompt": "A table set for dinner with plates, but no forks.",
+    "score": 9.23744991609965e-09
+  },
+  {
+    "index": 469,
+    "prompt": "A playground with swings, but no slide.",
+    "score": 4.363462036138799e-09
+  },
+  {
+    "index": 470,
+    "prompt": "A road with cars, but no traffic lights.",
+    "score": 1.1861120086109622e-08
+  },
+  {
+    "index": 471,
+    "prompt": "Five pencils on the desk, but no erasers.",
+    "score": 0.0758550614118576
+  },
+  {
+    "index": 472,
+    "prompt": "Two birds in the sky; the one on the left is flying, but the one on the right is not.",
+    "score": 7.484618981834501e-05
+  },
+  {
+    "index": 473,
+    "prompt": "A person with glasses reading a book, while another without glasses is not.",
+    "score": 0.00013982175732962787
+  },
+  {
+    "index": 474,
+    "prompt": "Two cars in the street, the car on the left is red, but the one on the right is not.",
+    "score": 0.0001088968274416402
+  },
+  {
+    "index": 475,
+    "prompt": "A musician with a guitar, but there is no audience to listen.",
+    "score": 0.9968172907829285
+  },
+  {
+    "index": 476,
+    "prompt": "Two windows in a room; one is open, but the other is not.",
+    "score": 0.9997036457061768
+  },
+  {
+    "index": 477,
+    "prompt": "A basket full of apples, but no oranges.",
+    "score": 0.9999851584434509
+  },
+  {
+    "index": 478,
+    "prompt": "A row of houses with chimneys, but no smoke coming out.",
+    "score": 0.8807762861251831
+  },
+  {
+    "index": 479,
+    "prompt": "Two dogs playing; one is barking, but the other is not.",
+    "score": 0.029232503846287727
+  },
+  {
+    "index": 480,
+    "prompt": "A pair of socks, one is striped, but the other is not.",
+    "score": 6.144171493360773e-06
+  },
+  {
+    "index": 481,
+    "prompt": "A snowy hill with children sledding, but no snowman in sight.",
+    "score": 0.000261190056335181
+  },
+  {
+    "index": 482,
+    "prompt": "Two cups on the table; one is full, but the other is not.",
+    "score": 0.7310535907745361
+  },
+  {
+    "index": 483,
+    "prompt": "A bridge over a river, but no cars crossing.",
+    "score": 0.001169506460428238
+  },
+  {
+    "index": 484,
+    "prompt": "A zoo with no animals in the enclosures.",
+    "score": 5.315785145398877e-08
+  },
+  {
+    "index": 485,
+    "prompt": "A kitchen with every cupboard bare.",
+    "score": 8.939690815168433e-06
+  },
+  {
+    "index": 486,
+    "prompt": "A mirror without a reflection of light.",
+    "score": 4.4508482233140967e-07
+  },
+  {
+    "index": 487,
+    "prompt": "A calendar without any markings.",
+    "score": 0.00012339450768195093
+  },
+  {
+    "index": 488,
+    "prompt": "A bridge with no one crossing.",
+    "score": 0.9999399781227112
+  },
+  {
+    "index": 489,
+    "prompt": "A hotel with no guests checking in.",
+    "score": 0.22263914346694946
+  },
+  {
+    "index": 490,
+    "prompt": "A fountain with no water flowing.",
+    "score": 9.23744991609965e-09
+  },
+  {
+    "index": 491,
+    "prompt": "A beach scene where the sandcastle appears taller than the nearby cooler.",
+    "score": 0.9999642968177795
+  },
+  {
+    "index": 492,
+    "prompt": "A bustling street with more bicycles than cars parked along the sidewalk.",
+    "score": 0.9975264668464661
+  },
+  {
+    "index": 493,
+    "prompt": "A starry night sky with more visible stars than the number of lights in the city below.",
+    "score": 0.22269977629184723
+  },
+  {
+    "index": 494,
+    "prompt": "In a crowded room, there are more people standing than sitting.",
+    "score": 0.9968265295028687
+  },
+  {
+    "index": 495,
+    "prompt": "A fruit basket with more apples than oranges.",
+    "score": 0.9997379779815674
+  },
+  {
+    "index": 496,
+    "prompt": "A snowy landscape with snow deeper than the height of the nearby fence.",
+    "score": 0.1480468064546585
+  },
+  {
+    "index": 497,
+    "prompt": "A classroom with more chairs than students.",
+    "score": 0.9995647668838501
+  },
+  {
+    "index": 498,
+    "prompt": "A painting where the mountain is depicted as taller than the trees in the foreground.",
+    "score": 0.9997385740280151
+  },
+  {
+    "index": 499,
+    "prompt": "A library with more shelves filled with books than empty ones.",
+    "score": 0.9996605515480042
+  },
+  {
+    "index": 500,
+    "prompt": "A kitchen pantry with more types of pasta than sauces.",
+    "score": 0.9705519080162048
+  },
+  {
+    "index": 501,
+    "prompt": "A bakery display with more chocolate pastries than fruit-filled ones.",
+    "score": 0.04742524027824402
+  },
+  {
+    "index": 502,
+    "prompt": "An office with more desks than computers.",
+    "score": 0.060086220502853394
+  },
+  {
+    "index": 503,
+    "prompt": "A vintage car show with more convertibles than sedans.",
+    "score": 0.9597891569137573
+  },
+  {
+    "index": 504,
+    "prompt": "Two dogs playing with one red ball.",
+    "score": 0.9999721646308899
+  },
+  {
+    "index": 505,
+    "prompt": "Three apples next to four oranges on a table.",
+    "score": 0.00407013576477766
+  },
+  {
+    "index": 506,
+    "prompt": "One cat sleeping under five bright stars",
+    "score": 0.9984924793243408
+  },
+  {
+    "index": 507,
+    "prompt": "Six birds soar above two towering trees.",
+    "score": 0.9820064306259155
+  },
+  {
+    "index": 508,
+    "prompt": "Four children jumping rope in the park",
+    "score": 0.6224564909934998
+  },
+  {
+    "index": 509,
+    "prompt": "Two bicycles leaning against a wall with three windows.",
+    "score": 1.1253517584464134e-07
+  },
+  {
+    "index": 510,
+    "prompt": "Four cupcakes with sprinkles on a plate with two forks.",
+    "score": 0.9999756217002869
+  },
+  {
+    "index": 511,
+    "prompt": "Three kites soaring in the sky above two hills.",
+    "score": 0.0024725948460400105
+  },
+  {
+    "index": 512,
+    "prompt": "One lantern glowing softly next to five pebbles.",
+    "score": 0.9968242645263672
+  },
+  {
+    "index": 513,
+    "prompt": "Six pencils lined up next to one sharpener.",
+    "score": 0.00048785697435960174
+  },
+  {
+    "index": 514,
+    "prompt": "Two sparrows perched on a branch with three leaves.",
+    "score": 0.010986910201609135
+  },
+  {
+    "index": 515,
+    "prompt": "Five buttons sewn onto a piece of fabric with two needles.",
+    "score": 0.5621756911277771
+  },
+  {
+    "index": 516,
+    "prompt": "Three snowmen standing in a garden with two pine trees.",
+    "score": 0.9044191837310791
+  },
+  {
+    "index": 517,
+    "prompt": "Two clouds casting shadows over three sunflowers.",
+    "score": 0.0007096686167642474
+  },
+  {
+    "index": 518,
+    "prompt": "Two apples on a kitchen counter.",
+    "score": 0.999986469745636
+  },
+  {
+    "index": 519,
+    "prompt": "Three birds sitting on a wire.",
+    "score": 0.9999802708625793
+  },
+  {
+    "index": 520,
+    "prompt": "Four pencils in a cup.",
+    "score": 0.999876081943512
+  },
+  {
+    "index": 521,
+    "prompt": "Five stars in the night sky.",
+    "score": 0.2689284086227417
+  },
+  {
+    "index": 522,
+    "prompt": "One cat napping in the sun.",
+    "score": 0.9999921917915344
+  },
+  {
+    "index": 523,
+    "prompt": "Two shoes by the front door.",
+    "score": 0.9968252182006836
+  },
+  {
+    "index": 524,
+    "prompt": "Three cookies on a plate.",
+    "score": 0.9999919533729553
+  },
+  {
+    "index": 525,
+    "prompt": "Four leaves on a branch.",
+    "score": 0.9980710744857788
+  },
+  {
+    "index": 526,
+    "prompt": "Five stones by the river.",
+    "score": 0.9959288239479065
+  },
+  {
+    "index": 527,
+    "prompt": "A vibrant apple tree performing a juggling act using its own apples under a bright, circus-style tent.",
+    "score": 0.9241304397583008
+  },
+  {
+    "index": 528,
+    "prompt": "Fields of lavender participating in a peaceful protest for bees, waving tiny banners.",
+    "score": 0.7772160768508911
+  },
+  {
+    "index": 529,
+    "prompt": "A Siamese cat detective with a magnifying glass.",
+    "score": 0.9999876618385315
+  },
+  {
+    "index": 530,
+    "prompt": "A cheerful Labrador retriever wearing a chef's hat, baking cookies shaped like bones.",
+    "score": 0.999983012676239
+  },
+  {
+    "index": 531,
+    "prompt": "A cherry blossom tree gracefully dancing in a kimono during a spring festival under moonlight.",
+    "score": 0.010986847802996635
+  },
+  {
+    "index": 532,
+    "prompt": "A goldfish conducting a symphony orchestra with a choir of bubbles in an underwater concert hall.",
+    "score": 0.9980728626251221
+  },
+  {
+    "index": 533,
+    "prompt": "A parrot pirate sails through the sky with a map.",
+    "score": 0.09534875303506851
+  },
+  {
+    "index": 534,
+    "prompt": "A band of beetles playing rock music on miniature instruments, with a leaf as their stage.",
+    "score": 0.9999614357948303
+  },
+  {
+    "index": 535,
+    "prompt": "A tabby cat wizard casting spells with a wand, surrounded by floating books and magical orbs.",
+    "score": 0.999999463558197
+  },
+  {
+    "index": 536,
+    "prompt": "A German shepherd astronaut exploring new planets with a space helmet and a jetpack.",
+    "score": 0.9626692533493042
+  },
+  {
+    "index": 537,
+    "prompt": "Marigold flowers hosting a party, with fireflies as their lanterns in the twilight.",
+    "score": 0.9995673894882202
+  },
+  {
+    "index": 538,
+    "prompt": "A weeping willow as a poet, writing verses that sway with its branches by a serene lake.",
+    "score": 6.605184898944572e-05
+  },
+  {
+    "index": 539,
+    "prompt": "A hummingbird thief, darting through a museum to steal nectar from exotic flowers.",
+    "score": 0.0007096625631675124
+  },
+  {
+    "index": 540,
+    "prompt": "A sparrow pilot flying a paper plane between the clouds.",
+    "score": 0.029311876744031906
+  },
+  {
+    "index": 541,
+    "prompt": "A maple tree chef serving maple syrup pancakes at a forest diner with animals as guests.",
+    "score": 0.9988300800323486
+  },
+  {
+    "index": 542,
+    "prompt": "An ancient oak tree hosting a library in its branches, with birds as librarians and squirrels as readers.",
+    "score": 0.9999958872795105
+  },
+  {
+    "index": 543,
+    "prompt": "A rabbit magician pulling a human out of a hat at a magic show.",
+    "score": 0.6791777610778809
+  },
+  {
+    "index": 544,
+    "prompt": "A punk rock frog in a studded leather jacket standing on a stump.",
+    "score": 0.9997298717498779
+  },
+  {
+    "index": 545,
+    "prompt": "A smiling sloth wearing a bowtie and holding a book.",
+    "score": 0.9890047311782837
+  },
+  {
+    "index": 546,
+    "prompt": "A cat perched on a bookshelf, pawing at a floating feather.",
+    "score": 0.9999677538871765
+  },
+  {
+    "index": 547,
+    "prompt": "A ballerina pirouettes on a moonlit rooftop, the city skyline behind her.",
+    "score": 0.9996189475059509
+  },
+  {
+    "index": 548,
+    "prompt": "A squirrel in a tiny hat painting a masterpiece in a tree nook.",
+    "score": 0.437820166349411
+  },
+  {
+    "index": 549,
+    "prompt": "A fox in a detective's outfit sniffs for clues in a misty forest.",
+    "score": 0.9998762011528015
+  },
+  {
+    "index": 550,
+    "prompt": "A robot serves tea in a futuristic cafe, surrounded by holograms.",
+    "score": 0.9999975562095642
+  },
+  {
+    "index": 551,
+    "prompt": "A painter on a ladder adds stars to a mural of the night sky on a city wall.",
+    "score": 0.9990857243537903
+  },
+  {
+    "index": 552,
+    "prompt": "A knight in shining armor reads a map by the light of a firefly lantern.",
+    "score": 0.9999844431877136
+  },
+  {
+    "index": 553,
+    "prompt": "A jazz band of raccoons performs in a moonlit alley, instruments gleaming.",
+    "score": 0.9241283535957336
+  },
+  {
+    "index": 554,
+    "prompt": "A child in a superhero costume leaps over a puddle, cape fluttering.",
+    "score": 0.9999945163726807
+  },
+  {
+    "index": 555,
+    "prompt": "An elephant paints a self-portrait with its trunk in a sunny, open field.",
+    "score": 4.139937459513021e-08
+  },
+  {
+    "index": 556,
+    "prompt": "A squirrel walks a tightrope between two trees holding an acorn.",
+    "score": 0.3208186626434326
+  },
+  {
+    "index": 557,
+    "prompt": "A jazz musician plays a saxophone under a streetlamp at night.",
+    "score": 0.9999917149543762
+  },
+  {
+    "index": 558,
+    "prompt": "A knight in shining armor polishes his shield.",
+    "score": 0.0024726218543946743
+  },
+  {
+    "index": 559,
+    "prompt": "A hummingbird in a tiny helmet races a bumblebee.",
+    "score": 0.008577468805015087
+  },
+  {
+    "index": 560,
+    "prompt": "A fairy sprinkles pixie dust over a blooming garden at night.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 561,
+    "prompt": "A steampunk airship floats above a futuristic city.",
+    "score": 0.9999966025352478
+  },
+  {
+    "index": 562,
+    "prompt": "A skateboarder executes a trick over the Great Wall of China.",
+    "score": 0.9890027046203613
+  },
+  {
+    "index": 563,
+    "prompt": "A sunflower in sunglasses dances in the snow.",
+    "score": 0.01406338531523943
+  },
+  {
+    "index": 564,
+    "prompt": "A ghost plays chess with a suit of armor in a castle.",
+    "score": 0.9999979138374329
+  },
+  {
+    "index": 565,
+    "prompt": "A jazz band performs on the moon, the Earth rising in the background.",
+    "score": 0.9988291263580322
+  },
+  {
+    "index": 566,
+    "prompt": "A cowboy rides a mechanical bull in the middle of Times Square.",
+    "score": 0.9998908638954163
+  },
+  {
+    "index": 567,
+    "prompt": "A bear wearing a monocle reads the newspaper in a cozy den.",
+    "score": 0.9998409152030945
+  },
+  {
+    "index": 568,
+    "prompt": "A robot and a dinosaur play chess in a post-apocalyptic landscape.",
+    "score": 0.9990828633308411
+  },
+  {
+    "index": 569,
+    "prompt": "A ballerina pirouettes on a floating iceberg, northern lights above.",
+    "score": 0.999445915222168
+  },
+  {
+    "index": 570,
+    "prompt": "A ninja scales the Great Pyramid under the cover of night.",
+    "score": 0.0011695080902427435
+  },
+  {
+    "index": 571,
+    "prompt": "A sphinx talking with travelers in front of the Pyramids at sunset.",
+    "score": 0.04742556810379028
+  },
+  {
+    "index": 572,
+    "prompt": "A pilot in a leather jacket navigates a biplane through a stormy sky.",
+    "score": 0.999859631061554
+  },
+  {
+    "index": 573,
+    "prompt": "a young girl in a flowy dress running through a field of lavender, with a picturesque mountain range in the distance.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 574,
+    "prompt": "a futuristic cityscape at dusk, with flying cars zooming between neon-lit skyscrapers.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 575,
+    "prompt": "a group of friends camping with a glowing campfire at their center.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 576,
+    "prompt": "a diver exploring a vibrant coral reef, surrounded by a school of colorful fish.",
+    "score": 0.9999992251396179
+  },
+  {
+    "index": 577,
+    "prompt": "a leather-bound diary open to a blank page, with an antique quill and inkwell set beside it.",
+    "score": 0.999993622303009
+  },
+  {
+    "index": 578,
+    "prompt": "a quaint cobblestone street in a European village, lined with cafes and blooming flower boxes.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 579,
+    "prompt": "a solitary lighthouse standing tall against a backdrop of stormy seas and dark, rolling clouds.",
+    "score": 0.9999948143959045
+  },
+  {
+    "index": 580,
+    "prompt": "a hot air balloon drifting over a patchwork of green fields and winding rivers.",
+    "score": 0.9999915957450867
+  },
+  {
+    "index": 581,
+    "prompt": "a pug dressed as a chef cooking in a miniature kitchen.",
+    "score": 0.9986733794212341
+  },
+  {
+    "index": 582,
+    "prompt": "a bouquet of tulips sprouting from an open book.",
+    "score": 0.9994453191757202
+  },
+  {
+    "index": 583,
+    "prompt": "an octopus playing multiple instruments in an underwater band.",
+    "score": 0.96267169713974
+  },
+  {
+    "index": 584,
+    "prompt": "a flamingo standing on one leg at a soda shop counter.",
+    "score": 0.9999992847442627
+  },
+  {
+    "index": 585,
+    "prompt": "a koala pilot flying a paper airplane over Sydney Harbour.",
+    "score": 0.6791564226150513
+  },
+  {
+    "index": 586,
+    "prompt": "the Eiffel Tower adorned with colorful flowers in spring.",
+    "score": 0.9999994039535522
+  },
+  {
+    "index": 587,
+    "prompt": "a map of Japan with Mount Fuji highlighted in cherry blossoms.",
+    "score": 0.9999950528144836
+  },
+  {
+    "index": 588,
+    "prompt": "a llama wearing sunglasses and lounging on a beach chair.",
+    "score": 0.9998597502708435
+  },
+  {
+    "index": 589,
+    "prompt": "a baby elephant holding a colorful umbrella with its trunk.",
+    "score": 0.998498797416687
+  },
+  {
+    "index": 590,
+    "prompt": "a set of enchanted books floating above an ancient oak desk.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 591,
+    "prompt": "a luxurious velvet armchair with golden trim and emerald upholstery.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 592,
+    "prompt": "a quaint cottage with a thatched roof and a blooming garden.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 593,
+    "prompt": "a dachshund in a tuxedo playing a miniature grand piano.",
+    "score": 0.9999861717224121
+  },
+  {
+    "index": 594,
+    "prompt": "a circle of robots doing yoga in a garden.",
+    "score": 1.0
+  },
+  {
+    "index": 595,
+    "prompt": "a purple sports car racing along a coastal highway.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 596,
+    "prompt": "a mural of an astronaut on the side of a building.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 597,
+    "prompt": "a green tractor plowing a field at sunrise.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 598,
+    "prompt": "a rowboat tied to a dock on a foggy morning.",
+    "score": 0.9999998807907104
+  },
+  {
+    "index": 599,
+    "prompt": "a campervan parked under the stars in the desert.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 600,
+    "prompt": "a hammock strung between two palm trees on a white sandy beach.",
+    "score": 0.9988300800323486
+  },
+  {
+    "index": 601,
+    "prompt": "a pair of ballet shoes hanging by their ribbons.",
+    "score": 0.9988264441490173
+  },
+  {
+    "index": 602,
+    "prompt": "an old guitar leaning against a brightly painted wall.",
+    "score": 0.9988269805908203
+  },
+  {
+    "index": 603,
+    "prompt": "a vibrant bouquet of wildflowers on a rustic wooden table.",
+    "score": 0.9999967217445374
+  },
+  {
+    "index": 604,
+    "prompt": "The moon casts a soft glow on the garden, a rake leans against the fence, and a watering can sits by the flowerbed.",
+    "score": 0.9999234080314636
+  },
+  {
+    "index": 605,
+    "prompt": "A globe spins slowly on the desk, and a pair of glasses rests beside an open notebook.",
+    "score": 0.7267251014709473
+  },
+  {
+    "index": 606,
+    "prompt": "On the windowsill, three potted plants: one with pink blooms, another with white flowers, and the last with purple leaves.",
+    "score": 0.9999942183494568
+  },
+  {
+    "index": 607,
+    "prompt": "Along the coastline, seashells dot the beach as the tide gently rolls in.",
+    "score": 0.9999920725822449
+  },
+  {
+    "index": 608,
+    "prompt": "Amidst a winter wonderland, a rabbit scurries across the snow, leaving tracks beside a peacefully standing deer.",
+    "score": 0.7310342788696289
+  },
+  {
+    "index": 609,
+    "prompt": "On a busy desk, a lamp sheds light on a cluttered area filled with papers while the other half remains organized.",
+    "score": 0.26894059777259827
+  },
+  {
+    "index": 610,
+    "prompt": "Next to a white daisy, a sunflower stands tall absorbing the sunlight.",
+    "score": 0.9999949336051941
+  },
+  {
+    "index": 611,
+    "prompt": "A skateboard rests against a wall, with stickers decorating its underside.",
+    "score": 0.9914191365242004
+  },
+  {
+    "index": 612,
+    "prompt": "A canvas displays a half-finished portrait, with a cup of rinse water and scattered charcoal pieces nearby.",
+    "score": 0.8519425988197327
+  },
+  {
+    "index": 613,
+    "prompt": "After a snowfall, a group of kids builds a fort with blocks of snow piled up.",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 614,
+    "prompt": "Beside a pond, a willow tree drapes gracefully, with ducks paddling in the water and fish swimming below.",
+    "score": 0.9988208413124084
+  },
+  {
+    "index": 615,
+    "prompt": "On a sunny porch, a green parrot preens itself while a tabby cat naps in a nearby chair.",
+    "score": 0.8807895183563232
+  },
+  {
+    "index": 616,
+    "prompt": "A cat wearing a tiny hat sits under a table.",
+    "score": 5.043467012910696e-07
+  },
+  {
+    "index": 617,
+    "prompt": "A lady with a flower in her hair is walking through a garden.",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 618,
+    "prompt": "A figure in a cloak holding a lantern in a foggy forest.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 619,
+    "prompt": "A deer with a bell around its neck.",
+    "score": 0.9998753666877747
+  },
+  {
+    "index": 620,
+    "prompt": "A child with a leafy garland sitting on a tree branch.",
+    "score": 0.9999956488609314
+  },
+  {
+    "index": 621,
+    "prompt": "A monk with a wooden bracelet beside a tranquil pond.",
+    "score": 0.9999966025352478
+  },
+  {
+    "index": 622,
+    "prompt": "A lion with a golden chain roaring at sunset.",
+    "score": 0.9999863505363464
+  },
+  {
+    "index": 623,
+    "prompt": "An owl with a tiny book in a moonlit library.",
+    "score": 0.9999698996543884
+  },
+  {
+    "index": 624,
+    "prompt": "A warrior with a metal armguard standing on a hill.",
+    "score": 0.9999635815620422
+  },
+  {
+    "index": 625,
+    "prompt": "A mermaid with pearl hairpins beneath the waves.",
+    "score": 0.9889741539955139
+  },
+  {
+    "index": 626,
+    "prompt": "A lamp on the right side of a desk.",
+    "score": 0.3775378465652466
+  },
+  {
+    "index": 627,
+    "prompt": "A clock is hanging above the left side of the fireplace.",
+    "score": 4.5397850044537336e-05
+  },
+  {
+    "index": 628,
+    "prompt": "A chair positioned to the right of a table.",
+    "score": 0.32081636786460876
+  },
+  {
+    "index": 629,
+    "prompt": "A painting centered above a sofa, slightly to the left.",
+    "score": 0.1192023754119873
+  },
+  {
+    "index": 630,
+    "prompt": "A plant is placed to the left of a window.",
+    "score": 0.222693532705307
+  },
+  {
+    "index": 631,
+    "prompt": "A cup set to the right of a newspaper.",
+    "score": 0.7310527563095093
+  },
+  {
+    "index": 632,
+    "prompt": "A hat hanging on a hook to the left of a door.",
+    "score": 0.010986905544996262
+  },
+  {
+    "index": 633,
+    "prompt": "a ginger kitten peeking out from a wicker basket.",
+    "score": 0.9958620667457581
+  },
+  {
+    "index": 634,
+    "prompt": "a dog's paw hidden under a fluffy blanket.",
+    "score": 0.9999821782112122
+  },
+  {
+    "index": 635,
+    "prompt": "a spotlight illuminating a zebra crossing the road.",
+    "score": 0.047424472868442535
+  },
+  {
+    "index": 636,
+    "prompt": "a red fox darting through snowy woods.",
+    "score": 0.995923638343811
+  },
+  {
+    "index": 637,
+    "prompt": "an eagle soaring with a fish in its talons.",
+    "score": 0.06008616089820862
+  },
+  {
+    "index": 638,
+    "prompt": "a barn owl perched on a fence post at dusk.",
+    "score": 0.9999851584434509
+  },
+  {
+    "index": 639,
+    "prompt": "a cobblestone walkway winding through a lush garden.",
+    "score": 0.9999880194664001
+  },
+  {
+    "index": 640,
+    "prompt": "a rustic bridge spanning a tranquil mountain stream.",
+    "score": 0.9997382164001465
+  },
+  {
+    "index": 641,
+    "prompt": "a squirrel pausing beside a laptop on a park bench.",
+    "score": 0.9968223571777344
+  },
+  {
+    "index": 642,
+    "prompt": "a miniature unicorn resting on a child's palm.",
+    "score": 0.9932963252067566
+  },
+  {
+    "index": 643,
+    "prompt": "a vintage motorcycle parked on a cobblestone alley.",
+    "score": 0.9999983906745911
+  },
+  {
+    "index": 644,
+    "prompt": "a king piece standing next to a fallen rook.",
+    "score": 0.622455358505249
+  },
+  {
+    "index": 645,
+    "prompt": "a black rook advancing towards a white knight.",
+    "score": 0.00033534428803250194
+  },
+  {
+    "index": 646,
+    "prompt": "an attic filled with antique toys and a large teddy bear.",
+    "score": 0.9999372363090515
+  },
+  {
+    "index": 647,
+    "prompt": "a marble sculpture alongside a stack of books and an inkwell.",
+    "score": 0.9998907446861267
+  },
+  {
+    "index": 648,
+    "prompt": "fallen leaves swirling around a lonely park bench.",
+    "score": 0.18242482841014862
+  },
+  {
+    "index": 649,
+    "prompt": "the shadow of a camel against the backdrop of a setting sun.",
+    "score": 0.9241389036178589
+  },
+  {
+    "index": 650,
+    "prompt": "a piece of gourmet chocolate on a silk pillow.",
+    "score": 0.9932765364646912
+  },
+  {
+    "index": 651,
+    "prompt": "a seagull swooping over a crowded beach.",
+    "score": 0.9999237656593323
+  },
+  {
+    "index": 652,
+    "prompt": "an SUV navigating through a rugged mountain trail.",
+    "score": 0.9997367858886719
+  },
+  {
+    "index": 653,
+    "prompt": "a quaint cottage garden with a blossoming cherry tree.",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 654,
+    "prompt": "a green chalkboard with a detailed chalk drawing of a cityscape.",
+    "score": 0.9999811053276062
+  },
+  {
+    "index": 655,
+    "prompt": "a rotary dial telephone on a modern minimalist desk.",
+    "score": 0.999875009059906
+  },
+  {
+    "index": 656,
+    "prompt": "a biplane parked in a field of wildflowers.",
+    "score": 0.9997950792312622
+  },
+  {
+    "index": 657,
+    "prompt": "a calico cat napping on a sunny window sill.",
+    "score": 0.9999977946281433
+  },
+  {
+    "index": 658,
+    "prompt": "a lone deer grazing in a misty forest clearing.",
+    "score": 0.9999836087226868
+  },
+  {
+    "index": 659,
+    "prompt": "A mural featuring the word 'Unity' in bold, colorful letters.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 660,
+    "prompt": "A peaceful lakeside dock, a 'Quiet Zone' sign posted at the entrance.",
+    "score": 0.9999677538871765
+  },
+  {
+    "index": 661,
+    "prompt": "A coffee shop, a chalkboard menu displaying 'Cappuccino'.",
+    "score": 0.9933014512062073
+  },
+  {
+    "index": 662,
+    "prompt": "A home kitchen, a 'Family Recipes' cookbook open on the counter, ingredients spread around.",
+    "score": 0.999443531036377
+  },
+  {
+    "index": 663,
+    "prompt": "A serene yoga studio, 'Peace & Harmony' inscribed on the wall, mats laid out in neat rows on the wooden floor.",
+    "score": 0.9997687339782715
+  },
+  {
+    "index": 664,
+    "prompt": "A bustling craft fair, a 'Handmade Goods' sign hanging from a stall, showcasing an array of artisan creations.",
+    "score": 0.9999035000801086
+  },
+  {
+    "index": 665,
+    "prompt": "In the classroom, '1+2' is written on the blackboard.",
+    "score": 0.9995555877685547
+  },
+  {
+    "index": 666,
+    "prompt": "A wooden sign says 'Caution'.",
+    "score": 0.9994442462921143
+  },
+  {
+    "index": 667,
+    "prompt": "A classic race car with the number '76' painted in bold white on its rose gold door, parked at the starting line.",
+    "score": 0.9999534487724304
+  },
+  {
+    "index": 668,
+    "prompt": "A rustic wooden cabin in a snowy forest, the address '459' carved into a hanging sign above the frost-covered door.",
+    "score": 0.9241188764572144
+  },
+  {
+    "index": 669,
+    "prompt": "A vintage jukebox in a retro diner, its selection panel lit up with the numbers '45'.",
+    "score": 0.999995768070221
+  },
+  {
+    "index": 670,
+    "prompt": "An ornate clock tower at the stroke of midnight, its face illuminated, showing the time '12:00' in Roman numerals.",
+    "score": 0.777295708656311
+  },
+  {
+    "index": 671,
+    "prompt": "A towering castle shrouded in mist, 'Enchanted Realm' etched into the stone gate, vines curling around the letters.",
+    "score": 0.9999809861183167
+  },
+  {
+    "index": 672,
+    "prompt": "A dragon's lair deep within a volcano, 'Beware of Fire' written in ember-like script on the cavern walls, treasure piled high.",
+    "score": 0.9999831318855286
+  },
+  {
+    "index": 673,
+    "prompt": "A fairy garden at twilight, 'Whispering Glade' spelled out in luminescent flowers.",
+    "score": 0.999995768070221
+  },
+  {
+    "index": 674,
+    "prompt": "An alchemist's workshop, bubbling cauldrons, and 'Elixir of Life' are labeled on a shelf.",
+    "score": 0.9999639391899109
+  },
+  {
+    "index": 675,
+    "prompt": "A pirate ship sailing through the stars, 'Celestial Seas' written on the stern.",
+    "score": 0.7310053706169128
+  },
+  {
+    "index": 676,
+    "prompt": "A desert oasis features a magical spring with the words 'Fountain of Destiny' carved into the rocks. The spring shimmers and glows.",
+    "score": 0.9996601939201355
+  },
+  {
+    "index": 677,
+    "prompt": "A cottage in the woods, 'Enchanter's Abode' painted on the door.",
+    "score": 0.9999983906745911
+  },
+  {
+    "index": 678,
+    "prompt": "A rustic cabin under a starlit sky.",
+    "score": 0.9999962449073792
+  },
+  {
+    "index": 679,
+    "prompt": "Gleaming dewdrops on a spider's web.",
+    "score": 0.9999825358390808
+  },
+  {
+    "index": 680,
+    "prompt": "Twinkling city lights from a high viewpoint.",
+    "score": 0.9998756051063538
+  },
+  {
+    "index": 681,
+    "prompt": "A lone lighthouse in a misty harbor.",
+    "score": 4.5397850044537336e-05
+  },
+  {
+    "index": 682,
+    "prompt": "Shimmering northern lights in a dark sky.",
+    "score": 0.9999958872795105
+  },
+  {
+    "index": 683,
+    "prompt": "Petals of a blooming rose.",
+    "score": 0.9999217391014099
+  },
+  {
+    "index": 684,
+    "prompt": "In a bustling kitchen, a chef flips a pancake in the air, surrounded by ingredients spread out on the counter.",
+    "score": 0.4999813735485077
+  },
+  {
+    "index": 685,
+    "prompt": "A dog retrieving a frisbee in a field on a sunny day.",
+    "score": 0.9999988675117493
+  },
+  {
+    "index": 686,
+    "prompt": "A gardener watering flowers in a vibrant backyard.",
+    "score": 0.9999969601631165
+  },
+  {
+    "index": 687,
+    "prompt": "A photographer capturing the sunrise from a mountain peak.",
+    "score": 0.999902069568634
+  },
+  {
+    "index": 688,
+    "prompt": "A runner leaping over a hurdle on a track field.",
+    "score": 0.9999248385429382
+  },
+  {
+    "index": 689,
+    "prompt": "A florist arranging a bouquet in a flower shop.",
+    "score": 0.9999249577522278
+  },
+  {
+    "index": 690,
+    "prompt": "A dragon curling around a crystal tower at twilight.",
+    "score": 0.9999969601631165
+  },
+  {
+    "index": 691,
+    "prompt": "A pair of glasses resting on an open novel.",
+    "score": 0.9997937679290771
+  },
+  {
+    "index": 692,
+    "prompt": "A jazz band playing in a dimly lit club.",
+    "score": 0.9997955560684204
+  },
+  {
+    "index": 693,
+    "prompt": "A canoe floating on a crystal-clear mountain lake.",
+    "score": 0.9999913573265076
+  },
+  {
+    "index": 694,
+    "prompt": "A vintage typewriter with a sheet of paper.",
+    "score": 0.9999950528144836
+  },
+  {
+    "index": 695,
+    "prompt": "A cluster of mushrooms growing in a forest.",
+    "score": 0.9999931454658508
+  },
+  {
+    "index": 696,
+    "prompt": "A kite soaring high in the sky on a windy day.",
+    "score": 0.9999681115150452
+  },
+  {
+    "index": 697,
+    "prompt": "A basket of freshly baked bread in a warm kitchen.",
+    "score": 0.999987781047821
+  },
+  {
+    "index": 698,
+    "prompt": "A boy with short spiky hair wearing a baseball cap.",
+    "score": 0.9324490427970886
+  },
+  {
+    "index": 699,
+    "prompt": "A sleek smartphone case with a vibrant floral design.",
+    "score": 0.9999985098838806
+  },
+  {
+    "index": 700,
+    "prompt": "An electric kettle steaming on a modern kitchen counter.",
+    "score": 0.9998757243156433
+  },
+  {
+    "index": 701,
+    "prompt": "A bright blue yoga ball in the center of a sunlit home studio.",
+    "score": 0.9997380971908569
+  },
+  {
+    "index": 702,
+    "prompt": "A slim Bluetooth keyboard connected to a tablet on a minimalist desk.",
+    "score": 0.010986831970512867
+  },
+  {
+    "index": 703,
+    "prompt": "A pair of running shoes with neon laces on a wooden floor next to a gym bag.",
+    "score": 0.9999920725822449
+  },
+  {
+    "index": 704,
+    "prompt": "An e-reader displaying 'please' rests on a cozy armchair.",
+    "score": 0.9998763203620911
+  },
+  {
+    "index": 705,
+    "prompt": "A flash drive with a quirky animal design plugged into a laptop.",
+    "score": 0.9999969601631165
+  },
+  {
+    "index": 706,
+    "prompt": "Brightly colored Post-it notes arranged in a creative pattern on an office wall.",
+    "score": 0.37753546237945557
+  },
+  {
+    "index": 707,
+    "prompt": "A stylish sunglass case with a soft leather exterior on a beach towel.",
+    "score": 0.9997954368591309
+  },
+  {
+    "index": 708,
+    "prompt": "A reusable grocery bag filled with fresh produce on a kitchen counter.",
+    "score": 0.9999863505363464
+  },
+  {
+    "index": 709,
+    "prompt": "An air purifier in the corner of a well-lit living room.",
+    "score": 0.06008627638220787
+  },
+  {
+    "index": 710,
+    "prompt": "A desk organizer filled with stationery.",
+    "score": 0.9999721646308899
+  },
+  {
+    "index": 711,
+    "prompt": "A white wireless mouse on a desk.",
+    "score": 0.9999781250953674
+  },
+  {
+    "index": 712,
+    "prompt": "A gym bag packed with workout essentials beside a front door.",
+    "score": 0.9999588131904602
+  },
+  {
+    "index": 713,
+    "prompt": "A table coaster with an intricate mosaic design under a frosty glass of water.",
+    "score": 0.9999976754188538
+  },
+  {
+    "index": 714,
+    "prompt": "A throw pillow with a geometric pattern on a plush sofa.",
+    "score": 0.9998759627342224
+  },
+  {
+    "index": 715,
+    "prompt": "Wall art depicting a serene landscape hanging above a fireplace.",
+    "score": 0.9999890923500061
+  },
+  {
+    "index": 716,
+    "prompt": "A bedside lamp casting a warm glow over a stack of unread books.",
+    "score": 0.9995443820953369
+  },
+  {
+    "index": 717,
+    "prompt": "Hand sanitizer on an office desk.",
+    "score": 0.9999915957450867
+  },
+  {
+    "index": 718,
+    "prompt": "A power bank with a sleek, metallic finish on a desk.",
+    "score": 0.9996625781059265
+  },
+  {
+    "index": 719,
+    "prompt": "A car key fob.",
+    "score": 0.99973464012146
+  },
+  {
+    "index": 720,
+    "prompt": "A whiteboard in a home office.",
+    "score": 0.9999703764915466
+  },
+  {
+    "index": 721,
+    "prompt": "An earplug set.",
+    "score": 0.777246356010437
+  },
+  {
+    "index": 722,
+    "prompt": "A squirrel with a fluffy tail is nibbling on an acorn on its right.",
+    "score": 0.7310110330581665
+  },
+  {
+    "index": 723,
+    "prompt": "A majestic hawk is gliding over a wide canyon from right to left.",
+    "score": 0.8174214363098145
+  },
+  {
+    "index": 724,
+    "prompt": "A tranquil garden with a gently flowing fountain towards the left.",
+    "score": 0.22269567847251892
+  },
+  {
+    "index": 725,
+    "prompt": "A sturdy oak tree standing tall on the right, its branches swaying in the wind.",
+    "score": 0.006692736409604549
+  },
+  {
+    "index": 726,
+    "prompt": "A delicate daisy blooming on the left side of a sunny meadow.",
+    "score": 0.7772064805030823
+  },
+  {
+    "index": 727,
+    "prompt": "A rustic bench is in the front of a serene lakeside.",
+    "score": 0.999998152256012
+  },
+  {
+    "index": 728,
+    "prompt": "An owl perched on the right part of a branch under moonlight.",
+    "score": 0.08509846031665802
+  },
+  {
+    "index": 729,
+    "prompt": "A dog is waiting to the right of a closed door.",
+    "score": 0.00048785650869831443
+  },
+  {
+    "index": 730,
+    "prompt": "A water filter.",
+    "score": 0.99995356798172
+  },
+  {
+    "index": 731,
+    "prompt": "A pink dumbbell.",
+    "score": 0.18241682648658752
+  },
+  {
+    "index": 732,
+    "prompt": "A blue bike helmet.",
+    "score": 0.9999931454658508
+  },
+  {
+    "index": 733,
+    "prompt": "An insulated lunch box.",
+    "score": 0.9974737763404846
+  },
+  {
+    "index": 734,
+    "prompt": "A decorative candle holder.",
+    "score": 0.9998404383659363
+  },
+  {
+    "index": 735,
+    "prompt": "A soft steering wheel cover.",
+    "score": 0.9992834329605103
+  },
+  {
+    "index": 736,
+    "prompt": "An adjustable laptop stand.",
+    "score": 0.99996417760849
+  },
+  {
+    "index": 737,
+    "prompt": "A pair of durable gardening gloves.",
+    "score": 0.9988160729408264
+  },
+  {
+    "index": 738,
+    "prompt": "A hard doormat.",
+    "score": 0.00020342646166682243
+  },
+  {
+    "index": 739,
+    "prompt": "An illustrated picture book.",
+    "score": 0.9988221526145935
+  },
+  {
+    "index": 740,
+    "prompt": "A colorful night light.",
+    "score": 0.9999411702156067
+  },
+  {
+    "index": 741,
+    "prompt": "A shower head is spraying water.",
+    "score": 0.9999526143074036
+  },
+  {
+    "index": 742,
+    "prompt": "A stainless steel paper towel holder.",
+    "score": 0.7310549020767212
+  },
+  {
+    "index": 743,
+    "prompt": "A digital alarm clock.",
+    "score": 0.9997375011444092
+  },
+  {
+    "index": 744,
+    "prompt": "A circular baking sheet.",
+    "score": 0.9889963269233704
+  },
+  {
+    "index": 745,
+    "prompt": "An old vacuum cleaner.",
+    "score": 0.9398875832557678
+  },
+  {
+    "index": 746,
+    "prompt": "A broken schoolbag with orange and green colors.",
+    "score": 0.9999927878379822
+  },
+  {
+    "index": 747,
+    "prompt": "A bamboo cutting board.",
+    "score": 0.9998363852500916
+  },
+  {
+    "index": 748,
+    "prompt": "Heat-resistant oven mitts.",
+    "score": 0.9968134760856628
+  },
+  {
+    "index": 749,
+    "prompt": "A sleek wine opener.",
+    "score": 0.3208066523075104
+  },
+  {
+    "index": 750,
+    "prompt": "Stackable storage bins.",
+    "score": 0.9999948143959045
+  },
+  {
+    "index": 751,
+    "prompt": "A modern desk lamp.",
+    "score": 0.9999409317970276
+  },
+  {
+    "index": 752,
+    "prompt": "A fluffy bath towel.",
+    "score": 0.9998679757118225
+  },
+  {
+    "index": 753,
+    "prompt": "An electric toothbrush.",
+    "score": 0.999994695186615
+  },
+  {
+    "index": 754,
+    "prompt": "A diamond shaped wall mirror.",
+    "score": 0.9796664118766785
+  },
+  {
+    "index": 755,
+    "prompt": "A wooden shoe rack.",
+    "score": 0.9999638199806213
+  },
+  {
+    "index": 756,
+    "prompt": "A girl tossing a frisbee to a boy in a sunny park.",
+    "score": 0.9998763203620911
+  },
+  {
+    "index": 757,
+    "prompt": "Two people sharing an umbrella during a light rain in the city.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 758,
+    "prompt": "A person teaching another person how to ride a bicycle on a quiet street.",
+    "score": 0.377536803483963
+  },
+  {
+    "index": 759,
+    "prompt": "A parent and a child building a sandcastle together on a beach.",
+    "score": 0.9999826550483704
+  },
+  {
+    "index": 760,
+    "prompt": "A dog picking up a stick in a field.",
+    "score": 0.9999035000801086
+  },
+  {
+    "index": 761,
+    "prompt": "A cat curled up next to a person reading a book by the fireplace.",
+    "score": 0.9999628663063049
+  },
+  {
+    "index": 762,
+    "prompt": "A bird perched on an oak tree branch.",
+    "score": 0.017971482127904892
+  },
+  {
+    "index": 763,
+    "prompt": "An oak tree providing shade to a family having a picnic underneath.",
+    "score": 0.9999992251396179
+  },
+  {
+    "index": 764,
+    "prompt": "A Cardinal flying towards a bird feeder held by a person.",
+    "score": 2.5612814624764724e-06
+  },
+  {
+    "index": 765,
+    "prompt": "A turtle slowly crossing a path with a child watching in fascination.",
+    "score": 0.9999720454216003
+  },
+  {
+    "index": 766,
+    "prompt": "A Poodle performing tricks for a crowd in a park.",
+    "score": 0.7309982776641846
+  },
+  {
+    "index": 767,
+    "prompt": "Koi fish swimming towards food being sprinkled into a pond by a person.",
+    "score": 0.999998152256012
+  },
+  {
+    "index": 768,
+    "prompt": "A Magnolia tree being climbed by a child as petals fall gently.",
+    "score": 0.9984955787658691
+  },
+  {
+    "index": 769,
+    "prompt": "A jay stealing dog food from a bowl as the dog watches amused.",
+    "score": 0.047425150871276855
+  },
+  {
+    "index": 770,
+    "prompt": "An Amaryllis being carefully watered by a person in a sunny garden.",
+    "score": 0.7772755026817322
+  },
+  {
+    "index": 771,
+    "prompt": "A Beagle is chasing a squirrel around an oak tree.",
+    "score": 0.9889591336250305
+  },
+  {
+    "index": 772,
+    "prompt": "A Bullfrog croaking loudly by a pond, startling a nearby cat.",
+    "score": 0.9623961448669434
+  },
+  {
+    "index": 773,
+    "prompt": "A Maine Coon cat is lounging leisurely in the sunlight next to a person who is knitting.",
+    "score": 0.9999822974205017
+  },
+  {
+    "index": 774,
+    "prompt": "A butterfly landing on a blooming Amaryllis as a child observes closely.",
+    "score": 0.9399020075798035
+  },
+  {
+    "index": 775,
+    "prompt": "A Mustang galloping across a field, with a dog chasing joyfully behind.",
+    "score": 0.8805845975875854
+  },
+  {
+    "index": 776,
+    "prompt": "A Calico cat watching a Coyote, hidden in the bushes.",
+    "score": 0.03732630982995033
+  },
+  {
+    "index": 777,
+    "prompt": "A Coyote prowling through a meadow, eyed cautiously by a Raccoon.",
+    "score": 0.9914106130599976
+  },
+  {
+    "index": 778,
+    "prompt": "A Raccoon rummaging through a backpack left by a camper, finding snacks.",
+    "score": 0.9999907612800598
+  },
+  {
+    "index": 779,
+    "prompt": "An American Alligator basking in the sun on a riverbank, observed from afar by a group of tourists.",
+    "score": 0.14803209900856018
+  },
+  {
+    "index": 780,
+    "prompt": "The city skyline at sunset, silhouetted against a vibrant orange sky.",
+    "score": 0.9999595284461975
+  },
+  {
+    "index": 781,
+    "prompt": "A cozy suburban home with a manicured lawn and a welcoming front porch.",
+    "score": 0.9999869465827942
+  },
+  {
+    "index": 782,
+    "prompt": "A panoramic view of a mountain range, its peaks dusted with snow.",
+    "score": 0.9996628165245056
+  },
+  {
+    "index": 783,
+    "prompt": "The bustling downtown district is illuminated by neon signs and busy pedestrians.",
+    "score": 0.999978244304657
+  },
+  {
+    "index": 784,
+    "prompt": "An idyllic farmhouse surrounded by golden fields of wheat under a blue sky.",
+    "score": 0.9999778866767883
+  },
+  {
+    "index": 785,
+    "prompt": "A high-rise apartment building towering over the city, with lights twinkling in the dusk.",
+    "score": 0.9999247193336487
+  },
+  {
+    "index": 786,
+    "prompt": "A serene coastal beach, the sand shimmering under the warm glow of the sunrise.",
+    "score": 0.9999025464057922
+  },
+  {
+    "index": 787,
+    "prompt": "A tranquil park in the heart of the city, filled with lush green trees and winding paths.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 788,
+    "prompt": "A picture of the riverfront at dawn.",
+    "score": 0.9994418621063232
+  },
+  {
+    "index": 789,
+    "prompt": "A bustling shopping mall, alive with shoppers and bright store displays.",
+    "score": 0.9999966025352478
+  },
+  {
+    "index": 790,
+    "prompt": "The college campus in spring, with students lounging on the green lawns between classes.",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 791,
+    "prompt": "The wooden boardwalk along the beach is lined with shops.",
+    "score": 0.9999964833259583
+  },
+  {
+    "index": 792,
+    "prompt": "A majestic Victorian house under the sun.",
+    "score": 0.9999800324440002
+  },
+  {
+    "index": 793,
+    "prompt": "A lonely lighthouse standing guard at the edge of the cliff.",
+    "score": 0.9999406933784485
+  },
+  {
+    "index": 794,
+    "prompt": "A ski resort nestled in the mountains, with trails winding through the snow-covered pines.",
+    "score": 0.9999410510063171
+  },
+  {
+    "index": 795,
+    "prompt": "A sprawling vineyard at harvest time, the vines heavy with clusters of ripe grapes.",
+    "score": 0.006692158989608288
+  },
+  {
+    "index": 796,
+    "prompt": "A quiet suburban cul-de-sac, where children play in its enclosed street.",
+    "score": 0.9994443655014038
+  },
+  {
+    "index": 797,
+    "prompt": "A view of an office tower reflecting the sky.",
+    "score": 0.9999722838401794
+  },
+  {
+    "index": 798,
+    "prompt": "A view of a country club with manicured golf courses and luxurious facilities.",
+    "score": 0.9999530911445618
+  },
+  {
+    "index": 799,
+    "prompt": "A rustic fishing pier at dawn, fishermen casting their lines into the calm waters.",
+    "score": 0.9999960064888
+  },
+  {
+    "index": 800,
+    "prompt": "The university library with students studying at tables.",
+    "score": 0.9999985098838806
+  },
+  {
+    "index": 801,
+    "prompt": "A person in a bright yellow raincoat stands next to another in a sleek black trench coat.",
+    "score": 0.9996642470359802
+  },
+  {
+    "index": 802,
+    "prompt": "A man in a tailored blue suit shaking hands with another man sporting a casual green sweater.",
+    "score": 0.9999479651451111
+  },
+  {
+    "index": 803,
+    "prompt": "A man dressed in a classic white t-shirt and jeans holding hands with a woman in a flowing red dress.",
+    "score": 0.9997951984405518
+  },
+  {
+    "index": 804,
+    "prompt": "A woman in a chic floral skirt and white blouse chatting with another woman wearing a professional grey pantsuit.",
+    "score": 0.9999035000801086
+  },
+  {
+    "index": 805,
+    "prompt": "A boy in a striped blue and white polo shirt playing tag with a girl in a pink sundress and white sandals.",
+    "score": 0.9975244402885437
+  },
+  {
+    "index": 806,
+    "prompt": "A small dog in a cozy orange sweater sitting beside a cat wearing a stylish blue bow tie.",
+    "score": 0.9999011158943176
+  },
+  {
+    "index": 807,
+    "prompt": "A person in a brown raincoat laughing with another person clad in a sleek black trench coat under a shared umbrella.",
+    "score": 0.5621157288551331
+  },
+  {
+    "index": 808,
+    "prompt": "A man wearing a tailored blue suit passing a football to another man dressed in a casual green sweater in the park.",
+    "score": 0.9992893934249878
+  },
+  {
+    "index": 809,
+    "prompt": "A man in a classic white t-shirt and jeans capturing a selfie with a woman in a flowing orange dress against a city skyline.",
+    "score": 0.99882972240448
+  },
+  {
+    "index": 810,
+    "prompt": "A woman in a chic floral skirt and white blouse sharing a book with another woman wearing a professional grey pantsuit on a sunny bench.",
+    "score": 0.9999951720237732
+  },
+  {
+    "index": 811,
+    "prompt": "A boy in a striped blue and white polo shirt and a girl in a pink sundress and white sandals drawing on the sidewalk with chalk.",
+    "score": 0.9999969601631165
+  },
+  {
+    "index": 812,
+    "prompt": "A small dog in a cozy purple sweater chasing a cat wearing a stylish pink bow tie around the living room.",
+    "score": 0.18241813778877258
+  },
+  {
+    "index": 813,
+    "prompt": "A person adorned in a luminous turquoise jacket stands beside another person cloaked in a charcoal peacoat.",
+    "score": 0.9995568990707397
+  },
+  {
+    "index": 814,
+    "prompt": "A man in a distressed brown leather vest hits another man in a vibrant mustard knitted sweater.",
+    "score": 0.0008040840039029717
+  },
+  {
+    "index": 815,
+    "prompt": "A man sporting a sleek silver jacket leans on a railing near a woman in a sapphire evening gown.",
+    "score": 0.9999851584434509
+  },
+  {
+    "index": 816,
+    "prompt": "A woman in a wide-brimmed lavender sunhat and breezy cotton dress is on the right of another woman dressed in a crisp white tennis ensemble.",
+    "score": 0.007577234413474798
+  },
+  {
+    "index": 817,
+    "prompt": "A boy in a vivid orange hoodie and black basketball shorts kisses a girl in a sky-blue tutu and glittery flats.",
+    "score": 0.9988276958465576
+  },
+  {
+    "index": 818,
+    "prompt": "A small dog decked out in a polka-dot bandana stands in front of a cat donning a lilac collar.",
+    "score": 0.9933050274848938
+  },
+  {
+    "index": 819,
+    "prompt": "A charcoal gray sports car with a yellow convertible top speeds ahead of two trucks.",
+    "score": 0.006692832335829735
+  },
+  {
+    "index": 820,
+    "prompt": "In the playground, a girl in white runs as a boy in yellow walks.",
+    "score": 0.9999831318855286
+  },
+  {
+    "index": 821,
+    "prompt": "Two old men with green hats sitting at a table.",
+    "score": 0.9999919533729553
+  },
+  {
+    "index": 822,
+    "prompt": "A girl with earrings, with her hands in her pockets, stands between two girls with handbags in their hands.",
+    "score": 0.9997384548187256
+  },
+  {
+    "index": 823,
+    "prompt": "A sitting puppy wearing star shaped glasses.",
+    "score": 0.5620933175086975
+  },
+  {
+    "index": 824,
+    "prompt": "Two computers equipped with unique circular displays.",
+    "score": 0.00048785697435960174
+  },
+  {
+    "index": 825,
+    "prompt": "A group of people, all wearing sunglasses, are taking separate selfies.",
+    "score": 0.07585582137107849
+  },
+  {
+    "index": 826,
+    "prompt": "Two street performers in colorful costumes playing guitars.",
+    "score": 0.999998152256012
+  },
+  {
+    "index": 827,
+    "prompt": "A child with a balloon tied to his wrist watching a street magician.",
+    "score": 0.0052200984209775925
+  },
+  {
+    "index": 828,
+    "prompt": "Two orange kites flying high in the sky with long tails.",
+    "score": 0.9999979138374329
+  },
+  {
+    "index": 829,
+    "prompt": "A girl in pink boots splashing in a puddle, holding an umbrella.",
+    "score": 0.9999869465827942
+  },
+  {
+    "index": 830,
+    "prompt": "A man wearing a black hat and holding two golden retrievers on leashes.",
+    "score": 0.7772993445396423
+  },
+  {
+    "index": 831,
+    "prompt": "Four children in striped shirts playing soccer in the park.",
+    "score": 0.0007096693152561784
+  },
+  {
+    "index": 832,
+    "prompt": "A woman with three silver bracelets sitting on a bench.",
+    "score": 0.04208771139383316
+  },
+  {
+    "index": 833,
+    "prompt": "Two boys in yellow raincoats jumping over a large puddle.",
+    "score": 0.9998756051063538
+  },
+  {
+    "index": 834,
+    "prompt": "Two dogs in purple woolly hats playing in the snow.",
+    "score": 0.9999917149543762
+  },
+  {
+    "index": 835,
+    "prompt": "Three colorful lanterns hang from the branches of the tree, each one swaying gently in the wind.",
+    "score": 0.00017952785128727555
+  },
+  {
+    "index": 836,
+    "prompt": "An orange cat lies on a couch surrounded by three pillows that are all blue.",
+    "score": 0.9994460344314575
+  },
+  {
+    "index": 837,
+    "prompt": "Several tulips are dancing in the sun, and they are all purple.",
+    "score": 0.32051920890808105
+  },
+  {
+    "index": 838,
+    "prompt": "Four differently colored bicycles are parked next to the school bike rack.",
+    "score": 4.5397850044537336e-05
+  },
+  {
+    "index": 839,
+    "prompt": "In the autumn, a few kids are chasing leaves in the park, the shortest kid is wearing a red jacket, and everyone else is wearing a gray one.",
+    "score": 0.9999141097068787
+  },
+  {
+    "index": 840,
+    "prompt": "A black cat wearing a pink bow tie sits on the windowsill and stares into the distance.",
+    "score": 1.0
+  },
+  {
+    "index": 841,
+    "prompt": "Two penguins in tiny shoes skating on the ice.",
+    "score": 0.9999944567680359
+  },
+  {
+    "index": 842,
+    "prompt": "Three beach houses are neatly lined up by the sea, arranged in a row from furthest to nearest: one is red, another one is green, and the last one is purple.",
+    "score": 0.9999935626983643
+  },
+  {
+    "index": 843,
+    "prompt": "A colourful butterfly fluttering in the garden.",
+    "score": 0.9999926090240479
+  },
+  {
+    "index": 844,
+    "prompt": "Two children in yellow raincoats playing in standing water.",
+    "score": 1.0
+  },
+  {
+    "index": 845,
+    "prompt": "A dog in a blue jumper sits next to a Christmas tree decorated with nine stars.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 846,
+    "prompt": "Four kids are running down a park path, each holding a balloon.",
+    "score": 1.9555681518568235e-08
+  },
+  {
+    "index": 847,
+    "prompt": "A cat wearing ski goggles is exploring in the snow.",
+    "score": 0.9999988079071045
+  },
+  {
+    "index": 848,
+    "prompt": "A cat warrior confronts a dog warrior, with the cat's equipment looking more advanced than the dog's.",
+    "score": 0.9997891187667847
+  },
+  {
+    "index": 849,
+    "prompt": "Several blue birds perched on a branch, each with a red feather in their tails.",
+    "score": 0.985923707485199
+  },
+  {
+    "index": 850,
+    "prompt": "A group of four children, two wearing hats and two holding balloons, stands near a fountain.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 851,
+    "prompt": "Two cats with striped tails sitting side by side, one with a bow tie and the other without.",
+    "score": 0.9999979734420776
+  },
+  {
+    "index": 852,
+    "prompt": "Three vintage cars parked in a row, one in the center with a white roof, the other two with green roofs.",
+    "score": 0.9933064579963684
+  },
+  {
+    "index": 853,
+    "prompt": "Four people on a bench, one reading a book and three looking at a map.",
+    "score": 1.067703010448895e-06
+  },
+  {
+    "index": 854,
+    "prompt": "A man wearing glasses and a blue jacket holding three different colored balloons.",
+    "score": 0.9933063983917236
+  },
+  {
+    "index": 855,
+    "prompt": "Five books on a shelf, each with a bookmark sticking out.",
+    "score": 0.9525731205940247
+  },
+  {
+    "index": 856,
+    "prompt": "Two parrots on a perch, one speaking into a miniature microphone.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 857,
+    "prompt": "Seven pencils in a cup, each of a different color.",
+    "score": 0.9978082776069641
+  },
+  {
+    "index": 858,
+    "prompt": "A woman in a beige dress holding two puppies, one in each arm.",
+    "score": 1.0
+  },
+  {
+    "index": 859,
+    "prompt": "Four pairs of shoes at the door, each of a different style.",
+    "score": 0.999987006187439
+  },
+  {
+    "index": 860,
+    "prompt": "Three sailboats on the water, each with sails of a different color.",
+    "score": 0.9959296584129333
+  },
+  {
+    "index": 861,
+    "prompt": "Two children in a sandbox, one building a castle and the other digging a hole.",
+    "score": 0.8519452810287476
+  },
+  {
+    "index": 862,
+    "prompt": "Inside a tent, two maps lay on the ground with an oil lamp resting on top.",
+    "score": 0.9992897510528564
+  },
+  {
+    "index": 863,
+    "prompt": "A baker without a white apron is holding a tray with six cupcakes.",
+    "score": 4.139937459513021e-08
+  },
+  {
+    "index": 864,
+    "prompt": "A hot air balloon with no people in it flies higher than another hot air balloon with people in it.",
+    "score": 2.061149695364861e-09
+  },
+  {
+    "index": 865,
+    "prompt": "A one-eyed Japanese samurai stares blankly at a scabbard without a sword.",
+    "score": 0.14804662764072418
+  },
+  {
+    "index": 866,
+    "prompt": "Five people sit arm-in-arm in the audience and watch the film.",
+    "score": 2.2603230718232226e-06
+  },
+  {
+    "index": 867,
+    "prompt": "All the dance performers on stage are bowing to the audience.",
+    "score": 0.7772998809814453
+  },
+  {
+    "index": 868,
+    "prompt": "A house cat lounges in the sunlight and a feral cat sits in the shadows where there is no sunlight.",
+    "score": 2.998955084265731e-09
+  },
+  {
+    "index": 869,
+    "prompt": "A solitary African elephant walking across the savannah.",
+    "score": 0.999998152256012
+  },
+  {
+    "index": 870,
+    "prompt": "An army of ants armed with modern weapons surrounds a birthday cake without candles.",
+    "score": 7.582531269534343e-10
+  },
+  {
+    "index": 871,
+    "prompt": "In the 'Tom and Jerry' cartoon, Tom and Jerry are flying through the air using flying devices, with Tom looking more frightened than Jerry.",
+    "score": 0.3775389790534973
+  },
+  {
+    "index": 872,
+    "prompt": "Two great white sharks circling a green fish.",
+    "score": 0.9706870317459106
+  },
+  {
+    "index": 873,
+    "prompt": "A clothed grizzly bear is fishing and another one without clothes is swimming in the river.",
+    "score": 0.0003353423671796918
+  },
+  {
+    "index": 874,
+    "prompt": "In the forest, there's a pack of wolves, all of them gray.",
+    "score": 0.9999973177909851
+  },
+  {
+    "index": 875,
+    "prompt": "In the zoo, all the animals in their cages are standing.",
+    "score": 1.7257828943684217e-08
+  },
+  {
+    "index": 876,
+    "prompt": "A Bengal tiger in the shade looks stronger than another Bengal tiger not in the shade.",
+    "score": 0.8807965517044067
+  },
+  {
+    "index": 877,
+    "prompt": "All emperor penguins are huddling together for warmth.",
+    "score": 0.9999139904975891
+  },
+  {
+    "index": 878,
+    "prompt": "Several giraffes on the African savannah surrounded a tall green tree, and all the giraffes were eating the leaves.",
+    "score": 1.0
+  },
+  {
+    "index": 879,
+    "prompt": "A red fox sneaking up on two unsuspecting rabbits.",
+    "score": 0.999999463558197
+  },
+  {
+    "index": 880,
+    "prompt": "Five dolphins jumped out of the water, and the one in the center jumped the highest.",
+    "score": 0.9999726414680481
+  },
+  {
+    "index": 881,
+    "prompt": "A herd of African bison walks on the Great Plains, with the largest one at the front.",
+    "score": 2.2602928311243886e-06
+  },
+  {
+    "index": 882,
+    "prompt": "Two koalas cuddling on a eucalyptus tree.",
+    "score": 0.9999634623527527
+  },
+  {
+    "index": 883,
+    "prompt": "In the garden, there is a butterfly beside every rose and a bee beside every daisy.",
+    "score": 0.01098680030554533
+  },
+  {
+    "index": 884,
+    "prompt": "A family of four chimpanzees grooming each other.",
+    "score": 0.9998766183853149
+  },
+  {
+    "index": 885,
+    "prompt": "Two peacocks displaying their magnificent tails.",
+    "score": 0.999999463558197
+  },
+  {
+    "index": 886,
+    "prompt": "Five zebras drinking from a waterhole at dusk.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 887,
+    "prompt": "A vase with five purple roses on a kitchen table.",
+    "score": 4.139937459513021e-08
+  },
+  {
+    "index": 888,
+    "prompt": "Three metal rubbish bins stand to the left of a wooden table.",
+    "score": 0.9999783635139465
+  },
+  {
+    "index": 889,
+    "prompt": "Three white seagulls flying over a blue lake.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 890,
+    "prompt": "Five colorful balloons floating against a clear blue sky.",
+    "score": 1.3440409674103648e-08
+  },
+  {
+    "index": 891,
+    "prompt": "Four red apples in a basket on the kitchen counter.",
+    "score": 6.8255644691817e-08
+  },
+  {
+    "index": 892,
+    "prompt": "A room with all the potted succulents on a sunny windowsill.",
+    "score": 0.9999937415122986
+  },
+  {
+    "index": 893,
+    "prompt": "Eight yellow rubber ducks lined up on the edge of a bathtub.",
+    "score": 7.433680407342713e-12
+  },
+  {
+    "index": 894,
+    "prompt": "On a cooling rack, a square cookie with frosting is doing a social dance with a triangle cookie without frosting.",
+    "score": 6.023574172786539e-08
+  },
+  {
+    "index": 895,
+    "prompt": "A group of paper airplanes are racing, and one of the paper airplanes with jets is flying faster than the others.",
+    "score": 0.9999987483024597
+  },
+  {
+    "index": 896,
+    "prompt": "A few ants stood at the top of a two-tiered cake without cream and swore their sovereignty to a passing mouse.",
+    "score": 0.00015843624714761972
+  },
+  {
+    "index": 897,
+    "prompt": "Five origami cranes hang from the ceiling, only one of which is red, and the others are all white.",
+    "score": 0.9999986290931702
+  },
+  {
+    "index": 898,
+    "prompt": "In the winter park, all the snowmen are wearing their adventure hats.",
+    "score": 0.9626717567443848
+  },
+  {
+    "index": 899,
+    "prompt": "Three cameras lay on three different wooden tables.",
+    "score": 4.363445604838034e-09
+  },
+  {
+    "index": 900,
+    "prompt": "Several orange kittens in a basket, each one looking very happy.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 901,
+    "prompt": "A silver laptop sits open on the floor, not on the table.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 902,
+    "prompt": "Nine red books stacked in a spiral.",
+    "score": 0.320819616317749
+  },
+  {
+    "index": 903,
+    "prompt": "A cactus in a green pot looks more vibrant than a cactus in a red pot.",
+    "score": 0.7309197187423706
+  },
+  {
+    "index": 904,
+    "prompt": "Five purple umbrellas open in a line.",
+    "score": 5.211412412720051e-10
+  },
+  {
+    "index": 905,
+    "prompt": "A striped towel on a beach.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 906,
+    "prompt": "Under the bench, there are four pairs of sneakers: one pair is red, two pairs are green, and the last pair is white.",
+    "score": 0.0005527785397134721
+  },
+  {
+    "index": 907,
+    "prompt": "Three ceramic mugs sit on the kitchen counter, one with a floral pattern on it, one with nothing on it, and one with a chevron pattern on it.",
+    "score": 0.9999980926513672
+  },
+  {
+    "index": 908,
+    "prompt": "Three spoons are in a ceramic pot: one is metal, one is wooden, and one is plastic.",
+    "score": 0.9999411702156067
+  },
+  {
+    "index": 909,
+    "prompt": "One round frame on the mantel has a photo in it, and one square frame has no photo in it.",
+    "score": 6.825603549032166e-08
+  },
+  {
+    "index": 910,
+    "prompt": "The four water bottles on the gym floor are all blue.",
+    "score": 0.999996542930603
+  },
+  {
+    "index": 911,
+    "prompt": "three children are all sitting on a couch.",
+    "score": 1.0
+  },
+  {
+    "index": 912,
+    "prompt": "In a gift shop, all the glass cups are green.",
+    "score": 0.9999974370002747
+  },
+  {
+    "index": 913,
+    "prompt": "A bottle with wine is standing upright on a table, and a bottle without wine is lying on the floor.",
+    "score": 1.7603294963919325e-06
+  },
+  {
+    "index": 914,
+    "prompt": "A little boy and a little girl each holding a baseball.",
+    "score": 1.0
+  },
+  {
+    "index": 915,
+    "prompt": "A frosted glass bottle is to the left of a smooth glass bottle.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 916,
+    "prompt": "The chairs around a metal table are all made of wood.",
+    "score": 0.9988291263580322
+  },
+  {
+    "index": 917,
+    "prompt": "Peppers in a bamboo basket are all green.",
+    "score": 0.9999892115592957
+  },
+  {
+    "index": 918,
+    "prompt": "A little piggy is standing on a green ball with a smaller red ball on top of its head.",
+    "score": 0.9999973773956299
+  },
+  {
+    "index": 919,
+    "prompt": "Three boys playing a computer game together, each with a headset.",
+    "score": 1.0
+  },
+  {
+    "index": 920,
+    "prompt": "Four opened cardboard boxes and one unopened plastic box.",
+    "score": 0.9999935030937195
+  },
+  {
+    "index": 921,
+    "prompt": "All the figurines on the bookshelf are white.",
+    "score": 0.9999973177909851
+  },
+  {
+    "index": 922,
+    "prompt": "All the boys on the platform are singing.",
+    "score": 0.0
+  },
+  {
+    "index": 923,
+    "prompt": "A little boy with a ping pong paddle looks more excited than a little girl without one.",
+    "score": 0.7310583591461182
+  },
+  {
+    "index": 924,
+    "prompt": "A strange fox with two tails.",
+    "score": 0.0004304967587813735
+  },
+  {
+    "index": 925,
+    "prompt": "A vibrant blue rose blooming on a red lush rose bush.",
+    "score": 0.9999995231628418
+  },
+  {
+    "index": 926,
+    "prompt": "A maple tree on each side of a country road.",
+    "score": 1.1861120086109622e-08
+  },
+  {
+    "index": 927,
+    "prompt": "Two children blowing dandelion seeds, watched by two others.",
+    "score": 7.484618981834501e-05
+  },
+  {
+    "index": 928,
+    "prompt": "Two flies resting near the window on a sunny afternoon.",
+    "score": 0.9999979138374329
+  },
+  {
+    "index": 929,
+    "prompt": "Four squirrels playing around an ancient oak tree.",
+    "score": 0.997515082359314
+  },
+  {
+    "index": 930,
+    "prompt": "A small cactus with six bright pink flowers on a sunny windowsill.",
+    "score": 0.9999998807907104
+  },
+  {
+    "index": 931,
+    "prompt": "A fluffy rabbit nibbling on one of three carrots laid out in front of it.",
+    "score": 0.9999704360961914
+  },
+  {
+    "index": 932,
+    "prompt": "All the sunflowers bloom facing the morning sun in a vibrant garden.",
+    "score": 0.9999721646308899
+  },
+  {
+    "index": 933,
+    "prompt": "A brown squirrel holding two acorns under a bushy oak tree.",
+    "score": 0.9995071291923523
+  },
+  {
+    "index": 934,
+    "prompt": "There are two colors of pots in the flower garden; all green pots have tulips in them and all yellow pots have no flowers in them.",
+    "score": 0.00020328255777712911
+  },
+  {
+    "index": 935,
+    "prompt": "A canary stands beside a green book.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 936,
+    "prompt": "A room with two lamps that glow green and one that glows red.",
+    "score": 0.004070126451551914
+  },
+  {
+    "index": 937,
+    "prompt": "Three vintage cars parked in a row, each a different color.",
+    "score": 0.9997379779815674
+  },
+  {
+    "index": 938,
+    "prompt": "Three little boys are sitting on the grass, and the boy in the middle looks the strongest.",
+    "score": 0.5621763467788696
+  },
+  {
+    "index": 939,
+    "prompt": "Two pens, yet neither has a cap.",
+    "score": 0.001926734228618443
+  },
+  {
+    "index": 940,
+    "prompt": "The little girl in the garden has roses in both hands.",
+    "score": 0.9046503901481628
+  },
+  {
+    "index": 941,
+    "prompt": "A succulent plant with a rose pattern on its pot.",
+    "score": 1.0
+  },
+  {
+    "index": 942,
+    "prompt": "An alien holding a different telescope in each hand.",
+    "score": 0.9999892115592957
+  },
+  {
+    "index": 943,
+    "prompt": "A gorgeous vinyl record player sits next to a smaller, older vinyl record player.",
+    "score": 2.215885430700837e-08
+  },
+  {
+    "index": 944,
+    "prompt": "A cat curiously looks at a set of ceramic cups, all adorned with cat patterns.",
+    "score": 1.0
+  },
+  {
+    "index": 945,
+    "prompt": "Two LED table lamps on a table, the illuminated one closer to the edge of the table than the one not illuminated.",
+    "score": 0.6224583983421326
+  },
+  {
+    "index": 946,
+    "prompt": "In the yoga room, all the mats are red.",
+    "score": 0.9704198837280273
+  },
+  {
+    "index": 947,
+    "prompt": "A vandalized room with all the coffee machines cluttering the floor.",
+    "score": 0.005220125894993544
+  },
+  {
+    "index": 948,
+    "prompt": "A group of students gathered around a panda, all with digital cameras in their hands.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 949,
+    "prompt": "A pile of skateboards is stacked together, with the only one not covered in graffiti placed on top.",
+    "score": 4.222823008603882e-06
+  },
+  {
+    "index": 950,
+    "prompt": "Overhead view of a village with solar charging panels on each house.",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 951,
+    "prompt": "A Bluetooth speaker.",
+    "score": 0.999999463558197
+  },
+  {
+    "index": 952,
+    "prompt": "A happy little girl holding a watercolour set in her hand and looking at her mother.",
+    "score": 0.004070138093084097
+  },
+  {
+    "index": 953,
+    "prompt": "A mechanical keyboard with a clear protective pouch is newer than another without a clear pouch.",
+    "score": 0.00026116089429706335
+  },
+  {
+    "index": 954,
+    "prompt": "A boy sits sullenly in his room, with his Bluetooth headphones and cell phone scattered on the floor.",
+    "score": 1.0
+  },
+  {
+    "index": 955,
+    "prompt": "A little girl on the street is holding a few pocket watches for sale, all of which are worn and old.",
+    "score": 0.9975258708000183
+  },
+  {
+    "index": 956,
+    "prompt": "There are several silk scarves on a table, the longest one is green and the others are not.",
+    "score": 0.999971330165863
+  },
+  {
+    "index": 957,
+    "prompt": "A black-and-white checkered hammock is tied higher than a person.",
+    "score": 0.0009110509417951107
+  },
+  {
+    "index": 958,
+    "prompt": "A rabbit standing on a stump looks more nervous than another rabbit not on a stump.",
+    "score": 0.9999814629554749
+  },
+  {
+    "index": 959,
+    "prompt": "A cartoon figurine is taller than a realistic-style cat figurine.",
+    "score": 0.9525740146636963
+  },
+  {
+    "index": 960,
+    "prompt": "A shorter man opens his umbrella in the rain, while a taller man does not open his umbrella in the rain.",
+    "score": 0.022977367043495178
+  },
+  {
+    "index": 961,
+    "prompt": "A caravan in the desert, with a person on each camel.",
+    "score": 0.6224576830863953
+  },
+  {
+    "index": 962,
+    "prompt": "An electric toothbrush with a cartoon design is cleaner than another without a cartoon design.",
+    "score": 3.9277472296816995e-07
+  },
+  {
+    "index": 963,
+    "prompt": "There is more bread in the open oven than on the table.",
+    "score": 0.99997478723526
+  },
+  {
+    "index": 964,
+    "prompt": "At a dance party, three girls in long dresses are sitting at a dining table, with three men beside them inviting them to dance.",
+    "score": 1.7603429114387836e-06
+  },
+  {
+    "index": 965,
+    "prompt": "The coffee table in the shabby living room is littered with books and candles.",
+    "score": 0.9999991655349731
+  },
+  {
+    "index": 966,
+    "prompt": "There are several sleek laptops on a table, all of which are closed",
+    "score": 1.3440383916929477e-08
+  },
+  {
+    "index": 967,
+    "prompt": "Five colorful magnets decorating the door of a white refrigerator.",
+    "score": 0.0003799843252636492
+  },
+  {
+    "index": 968,
+    "prompt": "There is a shell and a coin on the beach, the coin is bigger than the shell.",
+    "score": 1.4449788920956053e-07
+  },
+  {
+    "index": 969,
+    "prompt": "Several watches are displayed on the wooden shelves, all of which are vintage in style.",
+    "score": 0.9819520711898804
+  },
+  {
+    "index": 970,
+    "prompt": "Several umbrellas of varying colors leaned against stands in the hallway.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 971,
+    "prompt": "A leather wallet containing three credit cards and some cash on a coffee table.",
+    "score": 0.9999996423721313
+  },
+  {
+    "index": 972,
+    "prompt": "Two handmade blankets folded at the foot of a neatly made bed.",
+    "score": 0.9980719089508057
+  },
+  {
+    "index": 973,
+    "prompt": "In the sunlit bathroom, three fluffy towels hang in a row; from left to right, they are pink, green, and purple.",
+    "score": 0.9999974966049194
+  },
+  {
+    "index": 974,
+    "prompt": "An ornate clock showing 10:10, mounted on a living room wall.",
+    "score": 0.8807954788208008
+  },
+  {
+    "index": 975,
+    "prompt": "Some bees gathered around a blooming sunflower, each with a small hat.",
+    "score": 0.9994405508041382
+  },
+  {
+    "index": 976,
+    "prompt": "A tomato vine with several tomatoes on it, all yellow except the largest which is red.",
+    "score": 0.9999998807907104
+  },
+  {
+    "index": 977,
+    "prompt": "A frog with a baseball cap is crouching on a lotus leaf and another frog without a cap is crouching on a bigger lotus leaf.",
+    "score": 0.999995768070221
+  },
+  {
+    "index": 978,
+    "prompt": "A row of houses down the street, each with a key hanging on the door except the foremost house.",
+    "score": 0.01798621192574501
+  },
+  {
+    "index": 979,
+    "prompt": "A mouse pad has two pencils on it, the shorter pencil is green and the longer one is not.",
+    "score": 1.3709511677006958e-06
+  },
+  {
+    "index": 980,
+    "prompt": "A metal trash can with a single piece of paper crumpled at the top.",
+    "score": 0.9669123291969299
+  },
+  {
+    "index": 981,
+    "prompt": "Three magazines are neatly stacked on the glass coffee table, and an earth design is on the cover of the topmost magazine.",
+    "score": 0.9999982118606567
+  },
+  {
+    "index": 982,
+    "prompt": "A pair of sandals left beside the door, with four footprints leading away.",
+    "score": 0.9999967813491821
+  },
+  {
+    "index": 983,
+    "prompt": "A bamboo cutting board with three slices of fresh bread on top.",
+    "score": 2.510999053129126e-08
+  },
+  {
+    "index": 984,
+    "prompt": "A sad sloth sits beside a gray book.",
+    "score": 1.6373772382394236e-07
+  },
+  {
+    "index": 985,
+    "prompt": "a cream colored labradoodle is on the right of a black cat with white ears.",
+    "score": 0.9999645948410034
+  },
+  {
+    "index": 986,
+    "prompt": "Two Ming vases on the table, the larger one is more colorful than the other.",
+    "score": 0.9999945759773254
+  },
+  {
+    "index": 987,
+    "prompt": "A table full of dishes includes two plates of rice, two plates of sushi, and a pizza.",
+    "score": 0.9999744892120361
+  },
+  {
+    "index": 988,
+    "prompt": "A map of the United States spread out on a desk.",
+    "score": 1.0
+  },
+  {
+    "index": 989,
+    "prompt": "a metallic owl statue is holding a small globe of the Earth above its head.",
+    "score": 0.9914208054542542
+  },
+  {
+    "index": 990,
+    "prompt": "a photograph of the Mona Lisa working out.",
+    "score": 2.5946094231454886e-11
+  },
+  {
+    "index": 991,
+    "prompt": "the Mona Lisa wearing a blue hat and watching the smartphone.",
+    "score": 0.9997383952140808
+  },
+  {
+    "index": 992,
+    "prompt": "a young badger delicately sniffing a golden rose.",
+    "score": 0.9999933242797852
+  },
+  {
+    "index": 993,
+    "prompt": "Brown-and-white and black-and-white guinea pigs are eating fruits.",
+    "score": 0.9999400973320007
+  },
+  {
+    "index": 994,
+    "prompt": "The Rosetta Stone lies on the ground, covered with flowers.",
+    "score": 0.04742565006017685
+  },
+  {
+    "index": 995,
+    "prompt": "a photograph of an armadillo jumping on one leg.",
+    "score": 0.04742575064301491
+  },
+  {
+    "index": 996,
+    "prompt": "a black robot is painting as graffiti on a black brick wall.",
+    "score": 0.9999940991401672
+  },
+  {
+    "index": 997,
+    "prompt": "A bear plays ping pong with a red paddle against a panda bear using a blue paddle.",
+    "score": 0.998498797416687
+  },
+  {
+    "index": 998,
+    "prompt": "A pig wearing sunglasses and sitting astride a motorcycle.",
+    "score": 2.7535686967894435e-05
+  },
+  {
+    "index": 999,
+    "prompt": "Two koalas with beanies and scarves, sipping warm drinks by the campfire.",
+    "score": 0.9999638795852661
+  },
+  {
+    "index": 1000,
+    "prompt": "A lion in a majestic suit, ruling over a peaceful animal kingdom meeting with three tigers.",
+    "score": 0.00020341287017799914
+  },
+  {
+    "index": 1001,
+    "prompt": "Three monkeys in shorts and caps, swinging playfully from tree to tree.",
+    "score": 0.0005527785397134721
+  },
+  {
+    "index": 1002,
+    "prompt": "Four parrots wearing earrings and necklaces perched on a branch.",
+    "score": 0.999997079372406
+  },
+  {
+    "index": 1003,
+    "prompt": "Two pandas in fluffy slippers and bathrobes, lazily munching on bamboo.",
+    "score": 1.0
+  },
+  {
+    "index": 1004,
+    "prompt": "Two squirrels in tiny jackets, collecting acorns in a bustling city park.",
+    "score": 0.9999975562095642
+  },
+  {
+    "index": 1005,
+    "prompt": "Two deers with glittering necklaces, gracefully walk through a misty forest.",
+    "score": 0.9999996423721313
+  },
+  {
+    "index": 1006,
+    "prompt": "Three turtles in sandals slowly strolling along a sandy beach at sunset.",
+    "score": 3.726631803147029e-06
+  },
+  {
+    "index": 1007,
+    "prompt": "A kangaroo in sporty t-shirts and shorts.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 1008,
+    "prompt": "Two sheep wearing cozy scarves and mittens knitting in the warm autumn sun.",
+    "score": 0.9999896883964539
+  },
+  {
+    "index": 1009,
+    "prompt": "A sleek, metallic mouse gliding smoothly across a wooden desk.",
+    "score": 0.9999683499336243
+  },
+  {
+    "index": 1010,
+    "prompt": "Sunlight filtering through the linen curtains, casting a warm glow on the ceramic coffee mug.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 1011,
+    "prompt": "A leather couch positioned invitingly in front of a large, glass television screen.",
+    "score": 0.9999992847442627
+  },
+  {
+    "index": 1012,
+    "prompt": "The soft, woolen blanket draped over a plush, velvet couch.",
+    "score": 1.0
+  },
+  {
+    "index": 1013,
+    "prompt": "A robust, steel ladder leaning against the rough, concrete wall of a modern house.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 1014,
+    "prompt": "Glistening, silver utensils neatly arranged beside a porcelain plate on a granite countertop.",
+    "score": 1.0
+  },
+  {
+    "index": 1015,
+    "prompt": "A vintage, brass lamp illuminating a stack of hardcover books on a wooden nightstand.",
+    "score": 0.9999996423721313
+  },
+  {
+    "index": 1016,
+    "prompt": "A copper kettle sits next to a glass jar filled with fresh, green tea leaves.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 1017,
+    "prompt": "A denim backpack hanging on the back of a wooden chair.",
+    "score": 0.9999996423721313
+  },
+  {
+    "index": 1018,
+    "prompt": "A soft, cotton shirt drying on a silk line in the gentle breeze of a sunny backyard.",
+    "score": 0.9626724720001221
+  },
+  {
+    "index": 1019,
+    "prompt": "Velvet gloves resting on the polished, wooden surface of a grand piano.",
+    "score": 0.0009110509417951107
+  },
+  {
+    "index": 1020,
+    "prompt": "A shiny, ceramic vase holding a bouquet of wildflowers on a wooden dining table.",
+    "score": 1.0
+  },
+  {
+    "index": 1021,
+    "prompt": "A leather-bound notebook lying on a linen tablecloth, accompanied by a brass pen.",
+    "score": 1.0
+  },
+  {
+    "index": 1022,
+    "prompt": "The morning light reflecting off the smooth, granite surface of a kitchen island.",
+    "score": 0.9999983310699463
+  },
+  {
+    "index": 1023,
+    "prompt": "A wooden dresser adorned with brass handles, filled with soft, linen clothes.",
+    "score": 0.9997691512107849
+  },
+  {
+    "index": 1024,
+    "prompt": "A glass blender filled with vibrant fruits.",
+    "score": 0.999999463558197
+  },
+  {
+    "index": 1025,
+    "prompt": "A soft, woolen hat sitting atop a rustic, wooden coat rack by the door.",
+    "score": 0.9999784827232361
+  },
+  {
+    "index": 1026,
+    "prompt": "A smooth, ceramic plate holding a freshly baked croissant, beside a glass cup of steaming coffee.",
+    "score": 0.9999998807907104
+  },
+  {
+    "index": 1027,
+    "prompt": "A bronze statue of a dancer is positioned on a marble pedestal in the garden.",
+    "score": 1.0
+  },
+  {
+    "index": 1028,
+    "prompt": "Raindrops sliding off the smooth, rubber surface of a brightly colored umbrella.",
+    "score": 0.9999837875366211
+  },
+  {
+    "index": 1029,
+    "prompt": "The morning sun casts shadows through the leaves of a potted, green fern on a wooden windowsill.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 1030,
+    "prompt": "A pair of shiny, leather shoes neatly placed beside the soft, woolen rug at the entrance.",
+    "score": 0.9999828934669495
+  },
+  {
+    "index": 1031,
+    "prompt": "A sparkling glass chandelier is hanging above the polished, wooden dining table set.",
+    "score": 0.9999998807907104
+  },
+  {
+    "index": 1032,
+    "prompt": "A soft, velvet pillow perched on a hard, leather armchair.",
+    "score": 0.985924482345581
+  },
+  {
+    "index": 1033,
+    "prompt": "A glass bottle of vintage wine resting on a metallic rack in the dim light of the cellar.",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 1034,
+    "prompt": "A cotton canvas bag is lying on a wooden kitchen counter.",
+    "score": 0.999738335609436
+  },
+  {
+    "index": 1035,
+    "prompt": "A pair of gold earrings resting on a velvet cloth inside a polished, wooden jewelry box.",
+    "score": 0.9820136427879333
+  },
+  {
+    "index": 1036,
+    "prompt": "A metallic toaster reflecting the morning light, beside a ceramic jar of jam.",
+    "score": 6.825603549032166e-08
+  },
+  {
+    "index": 1037,
+    "prompt": "Four paper lanterns.",
+    "score": 0.9999993443489075
+  },
+  {
+    "index": 1038,
+    "prompt": "A stone pathway leading through a lush garden, lined with bronze sculptures and marble benches.",
+    "score": 0.9999244809150696
+  },
+  {
+    "index": 1039,
+    "prompt": "A leather wallet, containing a brass key and a handful of copper coins, lying on a denim jacket.",
+    "score": 0.9997368454933167
+  },
+  {
+    "index": 1040,
+    "prompt": "A silk scarf draped over a marble statue in the foyer.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 1041,
+    "prompt": "A rubber-soled shoe stepping onto the smooth surface of a skateboard.",
+    "score": 0.00043055691639892757
+  },
+  {
+    "index": 1042,
+    "prompt": "A woolen sweater drying on a wooden rack in the sun, next to a linen shirt and denim jeans.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 1043,
+    "prompt": "A pair of sunglasses with shiny, metallic frames sitting on a glass table by the pool.",
+    "score": 0.9999984502792358
+  },
+  {
+    "index": 1044,
+    "prompt": "A soft, fabric teddy bear sitting on a child's wooden chair, under the warm glow of a brass lamp.",
+    "score": 0.9999996423721313
+  },
+  {
+    "index": 1045,
+    "prompt": "A sleepy kitten curls up on a soft cotton pillow, basking in the sunshine.",
+    "score": 1.0
+  },
+  {
+    "index": 1046,
+    "prompt": "A leather-bound journal resting on the desk, its pages filled with sketches of birds.",
+    "score": 1.0
+  },
+  {
+    "index": 1047,
+    "prompt": "The golden light of dawn casts shadows across a woolen rug where a loyal dog patiently waits for its owner.",
+    "score": 1.0
+  },
+  {
+    "index": 1048,
+    "prompt": "A silver necklace gleaming beside a glass bowl filled with colorful fish.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 1049,
+    "prompt": "A group of children in denim jeans plays catch with a frisbee in the park, under the watchful eye of a vigilant parent.",
+    "score": 1.0
+  },
+  {
+    "index": 1050,
+    "prompt": "A smooth, ceramic pot housing a vibrant plant, guarded by a small, terracotta rabbit on the kitchen counter.",
+    "score": 1.0
+  },
+  {
+    "index": 1051,
+    "prompt": "A bronze statue of a horse in the town square.",
+    "score": 0.9999992847442627
+  },
+  {
+    "index": 1052,
+    "prompt": "A wooden bookshelf filled with leather-spined classics.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 1053,
+    "prompt": "In the garden, a man watches a family of ducks waddle past a rough-textured granite bench.",
+    "score": 0.994776725769043
+  },
+  {
+    "index": 1054,
+    "prompt": "A glass terrarium on a wooden desk provides a home for a tiny, green lizard, curiously observed by a group of students.",
+    "score": 1.0
+  },
+  {
+    "index": 1055,
+    "prompt": "A polished, copper kettle steams on the stove, catching the attention of a curious cat perched on a nearby chair.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 1056,
+    "prompt": "A leather saddle resting on the back of a horse.",
+    "score": 0.9999992847442627
+  },
+  {
+    "index": 1057,
+    "prompt": "A ceramic bowl filled with water sits next to a steel door that leads to the garden.",
+    "score": 0.9999949336051941
+  },
+  {
+    "index": 1058,
+    "prompt": "A group of firefighters taking a break, sitting on concrete steps.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 1059,
+    "prompt": "An oil painting of a majestic lion hanging above the fireplace.",
+    "score": 0.9999918341636658
+  },
+  {
+    "index": 1060,
+    "prompt": " A marble countertop in the bakery, where a chocolate cake awaits decoration, is observed by a curious mouse. ",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 1061,
+    "prompt": "A smooth, ceramic mug of coffee sits on the bedside table, next to a sleeping cat curled up in a linen blanket.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 1062,
+    "prompt": "A group of sheep grazing peacefully in the field beneath the steel gray sky.",
+    "score": 0.9999991655349731
+  },
+  {
+    "index": 1063,
+    "prompt": "A soft coat was draped over the back of a wooden chair, and a frog sang from the seat.",
+    "score": 1.0
+  },
+  {
+    "index": 1064,
+    "prompt": " A curious child picks up a lost wallet in a park and spots a suspicious squirrel scurrying away from the scene.",
+    "score": 0.09534939378499985
+  },
+  {
+    "index": 1065,
+    "prompt": " A colorful parrot flies out of an open window with a silk-textured scarf in its beak.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 1066,
+    "prompt": " A panda in red socks comforts a disappointed student.",
+    "score": 2.2603230718232226e-06
+  },
+  {
+    "index": 1067,
+    "prompt": " A dog chases a mouse from behind, and the mouse hits a round table leg.",
+    "score": 0.047425661236047745
+  },
+  {
+    "index": 1068,
+    "prompt": "A woolen hat left on a park bench under the moonlight.",
+    "score": 0.9994467496871948
+  },
+  {
+    "index": 1069,
+    "prompt": "A girl with a star necklace holds an earth-colored lizard in her hand.",
+    "score": 1.0
+  },
+  {
+    "index": 1070,
+    "prompt": "A kangaroo lifts a terrified turkey over its head.",
+    "score": 0.04742584004998207
+  },
+  {
+    "index": 1071,
+    "prompt": "A cat in jeans and a t-shirt lounging on a sunny window sill.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 1072,
+    "prompt": "A bear wearing a sweater and reading a book by the fireplace.",
+    "score": 0.9999949932098389
+  },
+  {
+    "index": 1073,
+    "prompt": "A horse dressed in a suit and tie, presenting at a business conference.",
+    "score": 1.8553913605501293e-07
+  },
+  {
+    "index": 1074,
+    "prompt": "A fox in a sleek red jacket is darting through the snowy woods.",
+    "score": 0.9999667406082153
+  },
+  {
+    "index": 1075,
+    "prompt": "A rabbit in a fluffy dress is hopping through a garden of flowers.",
+    "score": 0.9999621510505676
+  },
+  {
+    "index": 1076,
+    "prompt": "A dog wearing sneakers and a hoodie, skateboarding down the street.",
+    "score": 1.0
+  },
+  {
+    "index": 1077,
+    "prompt": "An elephant with a colorful scarf and a beanie painting on a large canvas.",
+    "score": 4.691155197633634e-08
+  },
+  {
+    "index": 1078,
+    "prompt": "A giraffe in a long coat gazing at the stars through a telescope.",
+    "score": 0.9975110292434692
+  },
+  {
+    "index": 1079,
+    "prompt": "A happy girl holds a balloon, with a curious cat peering up beside her feet.",
+    "score": 1.0
+  },
+  {
+    "index": 1080,
+    "prompt": "An anxious boy peers out of the window on a stormy day, with his loyal dog waiting to his right.",
+    "score": 0.9999998807907104
+  },
+  {
+    "index": 1081,
+    "prompt": "A proud teacher standing in front of a classroom, with drawings of animals like lions and tigers on the wall behind her.",
+    "score": 1.0
+  },
+  {
+    "index": 1082,
+    "prompt": "A relieved parent watching their child take their first steps towards a gentle rabbit.",
+    "score": 0.26894140243530273
+  },
+  {
+    "index": 1083,
+    "prompt": "A bored squirrel looking out from its tree hole at a group of excited children playing below.",
+    "score": 0.9995693564414978
+  },
+  {
+    "index": 1084,
+    "prompt": "A surprised woman finding a mouse hiding in her cupboard, next to a cheese block.",
+    "score": 0.9999997019767761
+  },
+  {
+    "index": 1085,
+    "prompt": "An angry cat hitting a nervous dog who accidentally stepped on its tail.",
+    "score": 6.144171493360773e-06
+  },
+  {
+    "index": 1086,
+    "prompt": "A firefighter, covered in soot, looking tired but hopeful after rescuing a scared kitten from a tree.",
+    "score": 0.9999991059303284
+  },
+  {
+    "index": 1087,
+    "prompt": "A doctor comforting a worried child with a teddy bear.",
+    "score": 1.493094675675266e-10
+  },
+  {
+    "index": 1088,
+    "prompt": "A curious monkey watching a group of tourists with an excited child pointing back at it.",
+    "score": 0.9995691776275635
+  },
+  {
+    "index": 1089,
+    "prompt": "A disappointed artist staring at a blank canvas, with a curious parrot perched on his head.",
+    "score": 1.0
+  },
+  {
+    "index": 1090,
+    "prompt": "An embarrassed owl caught in the act of stealing a hat from a scarecrow.",
+    "score": 0.9999987483024597
+  },
+  {
+    "index": 1091,
+    "prompt": "A frustrated fisherman sitting beside a peaceful lake, with a happy fish jumping in the background.",
+    "score": 0.8519381880760193
+  },
+  {
+    "index": 1092,
+    "prompt": "An anxious deer watching from the bushes as a group of hikers passes by.",
+    "score": 0.07585811614990234
+  },
+  {
+    "index": 1093,
+    "prompt": "A calm turtle sitting on a log.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 1094,
+    "prompt": "A bored lion yawning under the shade of a tree, with a nervous zebra watching from a distance.",
+    "score": 0.999999463558197
+  },
+  {
+    "index": 1095,
+    "prompt": "A tired nurse taking a moment to rest on a bench, with a hopeful dove perched on the window sill.",
+    "score": 0.37753957509994507
+  },
+  {
+    "index": 1096,
+    "prompt": "An excited kangaroo hopping alongside a surprised tourist who is trying to take a photo.",
+    "score": 5.043476676291903e-07
+  },
+  {
+    "index": 1097,
+    "prompt": "A spherical balloon floating above a square table.",
+    "score": 0.09534937143325806
+  },
+  {
+    "index": 1098,
+    "prompt": "A cylindrical vase sitting on a rectangular shelf.",
+    "score": 0.9999998211860657
+  },
+  {
+    "index": 1099,
+    "prompt": "A circular clock hanging on a curved wall.",
+    "score": 0.07585816830396652
+  },
+  {
+    "index": 1100,
+    "prompt": "An oval mirror leaning against a flat door.",
+    "score": 0.9999409317970276
+  },
+  {
+    "index": 1101,
+    "prompt": "A cubic puzzle next to a triangular pyramid.",
+    "score": 0.9999940991401672
+  },
+  {
+    "index": 1102,
+    "prompt": "A diamond-shaped kite flying above a hexagonal sandbox.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 1103,
+    "prompt": "An octagonal window framing a spherical ornament.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 1104,
+    "prompt": "A conical lampshade hanging above a circular rug.",
+    "score": 1.0
+  },
+  {
+    "index": 1105,
+    "prompt": "A spiral staircase winding beside a cubic bookcase.",
+    "score": 0.9947792291641235
+  },
+  {
+    "index": 1106,
+    "prompt": "A zigzag patterned pillow on a round couch.",
+    "score": 0.9999995827674866
+  },
+  {
+    "index": 1107,
+    "prompt": "A pointed pencil resting on a square notebook.",
+    "score": 0.9999743700027466
+  },
+  {
+    "index": 1108,
+    "prompt": "A flat screen mounted above a rectangular fireplace.",
+    "score": 0.9999986886978149
+  },
+  {
+    "index": 1109,
+    "prompt": "A spherical fruit bowl on an oval dining table.",
+    "score": 0.0011695103021338582
+  },
+  {
+    "index": 1110,
+    "prompt": "A hexagonal clock above a diamond-shaped photo frame.",
+    "score": 0.04742586240172386
+  },
+  {
+    "index": 1111,
+    "prompt": "An octagonal planter beside a conical tree.",
+    "score": 0.679173469543457
+  },
+  {
+    "index": 1112,
+    "prompt": "A zigzag path leading to a circular fountain.",
+    "score": 0.9999986886978149
+  }
+]
