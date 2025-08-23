@@ -12,3 +12,6 @@ __pycache__/
 *.tif
 *.tiff
 *.webp
+tifa/
+t2v_metrics/
+t2v_env/
