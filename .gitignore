@@ -3,3 +3,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
