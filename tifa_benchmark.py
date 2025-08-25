@@ -437,7 +437,7 @@ def main():
                 vqa_model=args.vqa_model,
                 overwrite=args.overwrite,
                 rate_limit_sleep=args.rate_limit_sleep,
-                do_generate=False,
+                do_generate=(model in generate_set),
             )
             futures.append(fut)
 
