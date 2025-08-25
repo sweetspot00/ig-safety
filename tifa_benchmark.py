@@ -225,7 +225,7 @@ def run_tifa_benchmark(vqa_model_name: str,
       results = tifa_score_benchmark(vqa_model, qa_json, imgs_json)
     (Per TIFA README. Make sure 'tifa' package is installed.)  # TIFA readme
     """
-    from tifascore import tifa_score_benchmark  # heavy import; keep local
+    from tifa.tifascore import tifa_score_benchmark  # heavy import; keep local
     results = tifa_score_benchmark(vqa_model_name,
                                    str(qa_json_path),
                                    str(imgs_json_path))
@@ -284,7 +284,7 @@ def worker_for_model(
         stem = key_to_stem(key)
         img_path = model_dir / f"{stem}.png"
         if img_path.exists() and is_under_15mb(img_path):
-            img_map[key] = str(img_path)
+            img_map[key] = str(img_path.resolve())
 
     if not img_map:
         print(f"[WARN] No images found for {model}; skip scoring.")
@@ -403,7 +403,7 @@ def main():
                 vqa_model=args.vqa_model,
                 overwrite=args.overwrite,
                 rate_limit_sleep=args.rate_limit_sleep,
-                do_generate=(model in generate_set),
+                do_generate=False,
             )
             futures.append(fut)
 

@@ -1,0 +1,12 @@
+langcodes
+pathy
+smart-open
+spacy-legacy
+spacy-loggers
+typer==0.7.*
+thinc
+huggingface_hub
+braceexpand
+portalocker
+antlr4-python3-runtime==4.9.*
+eva-decord
