@@ -152,6 +152,39 @@ def gen_dalle3_yunwu(prompt: str, size: str = "1024x1024") -> bytes:
             return img_r.content
     raise RuntimeError("Unexpected DALL·E-3 response shape.")
 
+def gen_gpt4o_yunwu(prompt: str, size: str = "1024x1024", model: str = "gpt-4o-image-vip") -> bytes:
+    if not YUNWU_API_KEY:
+        raise RuntimeError("YUNWU_API_KEY (or OPENAI_API_KEY) required for Yunwu image generation.")
+
+    url = f"{YUNWU_BASE_URL.rstrip('/')}/images/generations"
+    headers = {"Authorization": f"Bearer {YUNWU_API_KEY}"}
+    payload = {
+        "model": model,
+        "prompt": prompt,
+        "size": size,
+        "n": 1,
+        "response_format": "b64_json",
+        # Optional fields you can add if supported:
+        "quality": "low",
+        # "background": "transparent",
+        # "style": "vivid",
+    }
+
+    r = requests.post(url, headers=headers, json=payload, timeout=180)
+    r.raise_for_status()
+    js = r.json()
+
+    # Standard OpenAI-compatible response: {"data": [{"b64_json": "..."}]}
+    if isinstance(js, dict) and js.get("data"):
+        item = js["data"][0]
+        if "b64_json" in item:
+            return base64.b64decode(item["b64_json"])
+        if "url" in item:
+            img_r = requests.get(item["url"], timeout=180)
+            img_r.raise_for_status()
+            return img_r.content
+    raise RuntimeError("Unexpected GPT-4o image response shape from Yunwu.")
+
 def gen_imagen4_yunwu(prompt: str, aspect_ratio: str = "1:1", output_format: str = "jpg") -> bytes:
     if not IMAGEN_API_KEY:
         raise RuntimeError("IMAGEN_API_KEY not set for Imagen-4.")
@@ -208,6 +241,7 @@ def gen_sd_server(prompt: str, port: str, params: Optional[Dict] = None) -> byte
 
 MODEL_ADAPTERS = {
     "imagen4":       lambda prompt: gen_imagen4_yunwu(prompt, aspect_ratio="1:1", output_format="jpg"),
+    "gpt-4o-image":   lambda prompt: gen_gpt4o_yunwu(prompt, model="gpt-4o-image-vip"), 
     "gemini2.0":     lambda prompt: gen_gemini20_image(prompt),
     "dall-e3":       lambda prompt: gen_dalle3_yunwu(prompt),
     "sd-base0.9":    lambda prompt: gen_sd_server(prompt, SD_BASE_09_PORT),
@@ -344,7 +378,7 @@ def main():
 
     # Models + IO
     ap.add_argument("--models", nargs="+",
-                    default=["imagen4","gemini2.0","dall-e3","sd-base0.9","sd-base1.0","sd3.5-medium","sd3.5-large"])
+                    default=["gpt-4o-image", "imagen4","gemini2.0","dall-e3","sd-base0.9","sd-base1.0","sd3.5-medium","sd3.5-large"])
     ap.add_argument("--generate_models", nargs="*", default=None,
                     help="Subset of --models to GENERATE. If omitted, all generate. "
                          "If provided with no values, none generate (score-only).")
