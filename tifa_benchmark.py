@@ -10,11 +10,12 @@ TIFA benchmark runner (API generators + TIFA scoring)
 
 Refs:
   - TIFA repo & API usage (tifa_score_benchmark, VQAModel, v1.0 files)
-    https://github.com/Yushi-Hu/tifa   (see README Quick Start).  # TIFA readme
+    https://github.com/Yushi-Hu/tifa   (see README Quick Start).
 """
 
 import argparse
 import base64
+import gc
 import io
 import json
 import os
@@ -27,6 +28,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import requests
 from PIL import Image
 from tqdm import tqdm
+
+# Optional torch import for CUDA cache clears
+try:
+    import torch
+except Exception:
+    torch = None
 
 # --------------------- ENV VARS ---------------------
 OPENAI_API_KEY       = os.getenv("OPENAI_API_KEY", "")
@@ -57,7 +64,6 @@ SD35_LARGE_PORT      = os.getenv("SD35_LARGE_PORT", "10002")
 # --------------------- UTILS ---------------------
 
 SAFE_IMG_EXTS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
-
 def ensure_dir(p: pathlib.Path):
     p.mkdir(parents=True, exist_ok=True)
 
@@ -84,7 +90,6 @@ def is_under_15mb(path: pathlib.Path) -> bool:
         return False
 
 def basic_prompt_guard(prompt: str) -> bool:
-    # Optional: skip obviously blocked prompts for vendor APIs
     lowered = prompt.lower()
     blocked = [
         "sexual", "porn", "nsfw", "nude", "child sexual", "csam",
@@ -110,8 +115,7 @@ def load_tifa_text_inputs(path: pathlib.Path) -> List[Tuple[str, str]]:
                 pairs.append((k, v))
     else:
         raise ValueError("Unsupported TIFA text_inputs format.")
-    # keep original order
-    return pairs
+    return pairs  # keep original order
 
 # --------------------- GENERATORS (API adapters) ---------------------
 
@@ -155,7 +159,6 @@ def gen_dalle3_yunwu(prompt: str, size: str = "1024x1024") -> bytes:
 def gen_gpt4o_yunwu(prompt: str, size: str = "1024x1024", model: str = "gpt-4o-image-vip") -> bytes:
     if not YUNWU_API_KEY:
         raise RuntimeError("YUNWU_API_KEY (or OPENAI_API_KEY) required for Yunwu image generation.")
-
     url = f"{YUNWU_BASE_URL.rstrip('/')}/images/generations"
     headers = {"Authorization": f"Bearer {YUNWU_API_KEY}"}
     payload = {
@@ -164,17 +167,11 @@ def gen_gpt4o_yunwu(prompt: str, size: str = "1024x1024", model: str = "gpt-4o-i
         "size": size,
         "n": 1,
         "response_format": "b64_json",
-        # Optional fields you can add if supported:
         "quality": "low",
-        # "background": "transparent",
-        # "style": "vivid",
     }
-
     r = requests.post(url, headers=headers, json=payload, timeout=180)
     r.raise_for_status()
     js = r.json()
-
-    # Standard OpenAI-compatible response: {"data": [{"b64_json": "..."}]}
     if isinstance(js, dict) and js.get("data"):
         item = js["data"][0]
         if "b64_json" in item:
@@ -241,7 +238,7 @@ def gen_sd_server(prompt: str, port: str, params: Optional[Dict] = None) -> byte
 
 MODEL_ADAPTERS = {
     "imagen4":       lambda prompt: gen_imagen4_yunwu(prompt, aspect_ratio="1:1", output_format="jpg"),
-    "gpt-4o-image":   lambda prompt: gen_gpt4o_yunwu(prompt, model="gpt-4o-image-vip"), 
+    "gpt-4o-image":  lambda prompt: gen_gpt4o_yunwu(prompt, model="gpt-4o-image-vip"),
     "gemini2.0":     lambda prompt: gen_gemini20_image(prompt),
     "dall-e3":       lambda prompt: gen_dalle3_yunwu(prompt),
     "sd-base0.9":    lambda prompt: gen_sd_server(prompt, SD_BASE_09_PORT),
@@ -257,7 +254,6 @@ def run_tifa_benchmark(vqa_model_name: str,
     """
     Thin wrapper over TIFA's API:
       results = tifa_score_benchmark(vqa_model, qa_json, imgs_json)
-    (Per TIFA README. Make sure 'tifa' package is installed.)  # TIFA readme
     """
     from tifa.tifascore import tifa_score_benchmark  # heavy import; keep local
     results = tifa_score_benchmark(vqa_model_name,
@@ -276,6 +272,7 @@ def worker_for_model(
     overwrite: bool,
     rate_limit_sleep: float,
     do_generate: bool,
+    score_batch_size: int,
 ) -> Dict:
     """
     (Optional) Generate + TIFA score for one model. Returns summary dict.
@@ -328,19 +325,39 @@ def worker_for_model(
     with open(imgs_json_path, "w", encoding="utf-8") as f:
         json.dump(img_map, f, ensure_ascii=False, indent=2)
 
-    # 3) Run TIFA
-    print(f"[score] {model}: scoring {len(img_map)} images with VQA '{vqa_model}' ...")
-    results = run_tifa_benchmark(vqa_model, qa_json_path, imgs_json_path)
+    # 3) Run TIFA (chunked to reduce GPU/CPU memory use)
+    total = len(img_map)
+    bs = max(1, int(score_batch_size))
+    print(f"[score] {model}: scoring {total} images with VQA '{vqa_model}' in batches of {bs} ...")
+
+    keys = list(img_map.keys())
+    results_all: Dict = {}
+    for i in range(0, total, bs):
+        part = {k: img_map[k] for k in keys[i:i+bs]}
+        part_json = res_root / f"{model}_tifa_images.part{i//bs}.json"
+        with open(part_json, "w", encoding="utf-8") as f:
+            json.dump(part, f, ensure_ascii=False, indent=2)
+
+        try:
+            part_res = run_tifa_benchmark(vqa_model, qa_json_path, part_json)
+            if isinstance(part_res, dict):
+                results_all.update(part_res)
+        finally:
+            # Free VRAM/heap between batches
+            if torch is not None and getattr(torch, "cuda", None) and torch.cuda.is_available():
+                torch.cuda.empty_cache()
+            gc.collect()
+
+    results = results_all
 
     # Save raw per-prompt result
     per_prompt_path = res_root / f"{model}_tifa_per_prompt.json"
     with open(per_prompt_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    # 4) Summarize (try to compute simple mean over available tifa_score fields)
+    # 4) Summarize
     scores = []
     if isinstance(results, dict):
-        # common patterns: {key: {"tifa_score": x, ...}, ...}
         for v in results.values():
             if isinstance(v, dict) and "tifa_score" in v:
                 try:
@@ -388,6 +405,8 @@ def main():
                     help="Where image maps + TIFA results are saved.")
     ap.add_argument("--vqa_model", default="mplug-large",
                     help="TIFA VQA backbone (see README 'VQA Modules').")
+    ap.add_argument("--score_batch_size", type=int, default=64,
+                    help="How many images to score per call to the VQA (lower to reduce memory).")
 
     # Runtime
     ap.add_argument("--overwrite", action="store_true", help="Regenerate images if files exist.")
@@ -422,7 +441,7 @@ def main():
         if unknown:
             raise ValueError(f"--generate_models contains models not in --models: {sorted(unknown)}")
 
-    # Kick off one worker per model
+    # Kick off one worker per model (consider --max_workers_models 1 for VQA stability)
     max_workers = args.max_workers_models or len(args.models)
     futures, summaries = [], []
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
@@ -437,7 +456,8 @@ def main():
                 vqa_model=args.vqa_model,
                 overwrite=args.overwrite,
                 rate_limit_sleep=args.rate_limit_sleep,
-                do_generate=(model in generate_set),
+                do_generate=False,
+                score_batch_size=args.score_batch_size,
             )
             futures.append(fut)
 
