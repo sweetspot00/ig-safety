@@ -415,7 +415,7 @@ def main():
 
     # Models + IO
     ap.add_argument("--models", nargs="+",
-                    default=["gpt-4o-image", "imagen4","gemini2.0","dall-e3","sd-base0.9","sd-base1.0","sd3.5-medium","sd3.5-large"])
+                    default=["gpt-4o-image", "imagen4","gemini2.0","dall-e3","sd-base0.9","sd-base1.0","sd3.5-medium","sd3.5-large", "gemini2.5"],)
     ap.add_argument("--generate_models", nargs="*", default=None,
                     help="Subset of --models to GENERATE. If omitted, all generate. "
                          "If provided with no values, none generate (score-only).")
