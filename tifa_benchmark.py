@@ -45,6 +45,7 @@ YUNWU_API_KEY        = os.getenv("YUNWU_API_KEY", OPENAI_API_KEY)
 # Gemini 2.0 (yunwu proxy; generateContent)
 GEMINI_URL           = os.getenv("GEMINI_URL", "https://yunwu.ai/v1beta/models/gemini-2.0-flash-preview-image-generation:generateContent")
 GEMINI_API_KEY       = os.getenv("GEMINI_API_KEY", "")
+GEMINI_25_URL = os.getenv("GEMINI_25_URL", "https://yunwu.ai/v1beta/models/gemini-2.5-flash-image-preview:generateContent")
 
 # Imagen-4 (yunwu/replicate flow)
 IMAGEN_SUBMIT_URL    = os.getenv("IMAGEN_SUBMIT_URL", "https://yunwu.ai/replicate/v1/models/google/imagen-4/predictions")
@@ -123,6 +124,24 @@ def gen_gemini20_image(prompt: str) -> bytes:
     if not GEMINI_API_KEY:
         raise RuntimeError("GEMINI_API_KEY not set for Gemini 2.0 generation.")
     url = f"{GEMINI_URL}?key={GEMINI_API_KEY}"
+    payload = {
+        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+        "generationConfig": {"responseModalities": ["TEXT", "IMAGE"]},
+    }
+    r = requests.post(url, headers={"Content-Type": "application/json"},
+                      data=json.dumps(payload), timeout=180)
+    r.raise_for_status()
+    resp = r.json()
+    for cand in resp.get("candidates", []):
+        for part in cand.get("content", {}).get("parts", []):
+            if "inlineData" in part and "data" in part["inlineData"]:
+                return base64.b64decode(part["inlineData"]["data"])
+    raise RuntimeError("Gemini response did not include inline image bytes.")
+
+def gen_gemini25_image(prompt: str) -> bytes:
+    if not GEMINI_API_KEY:
+        raise RuntimeError("GEMINI_API_KEY not set for Gemini 2.0 generation.")
+    url = f"{GEMINI_25_URL}?key={GEMINI_API_KEY}"
     payload = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {"responseModalities": ["TEXT", "IMAGE"]},
@@ -240,6 +259,7 @@ MODEL_ADAPTERS = {
     "imagen4":       lambda prompt: gen_imagen4_yunwu(prompt, aspect_ratio="1:1", output_format="jpg"),
     "gpt-4o-image":  lambda prompt: gen_gpt4o_yunwu(prompt, model="gpt-4o-image-vip"),
     "gemini2.0":     lambda prompt: gen_gemini20_image(prompt),
+    "gemini2.5":     lambda prompt: gen_gemini20_image(prompt),
     "dall-e3":       lambda prompt: gen_dalle3_yunwu(prompt),
     "sd-base0.9":    lambda prompt: gen_sd_server(prompt, SD_BASE_09_PORT),
     "sd-base1.0":    lambda prompt: gen_sd_server(prompt, SD_BASE_10_PORT),
