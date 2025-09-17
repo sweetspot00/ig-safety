@@ -259,7 +259,7 @@ MODEL_ADAPTERS = {
     "imagen4":       lambda prompt: gen_imagen4_yunwu(prompt, aspect_ratio="1:1", output_format="jpg"),
     "gpt-4o-image":  lambda prompt: gen_gpt4o_yunwu(prompt, model="gpt-4o-image-vip"),
     "gemini2.0":     lambda prompt: gen_gemini20_image(prompt),
-    "gemini2.5":     lambda prompt: gen_gemini20_image(prompt),
+    "gemini2.5":     lambda prompt: gen_gemini25_image(prompt),
     "dall-e3":       lambda prompt: gen_dalle3_yunwu(prompt),
     "sd-base0.9":    lambda prompt: gen_sd_server(prompt, SD_BASE_09_PORT),
     "sd-base1.0":    lambda prompt: gen_sd_server(prompt, SD_BASE_10_PORT),

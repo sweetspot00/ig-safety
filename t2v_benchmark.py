@@ -266,7 +266,7 @@ def gen_sd_server(prompt: str, port: str, params: Optional[Dict] = None) -> byte
 MODEL_ADAPTERS = {
     "imagen4":       lambda prompt: gen_imagen4_yunwu(prompt, aspect_ratio="1:1", output_format="jpg"),
     "gemini2.0":     lambda prompt: gen_gemini20_image(prompt),
-    "gemini2.5":     lambda prompt: gen_gemini20_image(prompt),
+    "gemini2.5":     lambda prompt: gen_gemini25_image(prompt),
     "dall-e3":       lambda prompt: gen_dalle3_yunwu(prompt),
     "gpt-4o-image": lambda prompt: gen_gpt4o_yunwu(prompt, model="gpt-4o-image-vip"),
     "sd-base0.9":    lambda prompt: gen_sd_server(prompt, SD_BASE_09_PORT),
